@@ -1328,8 +1328,6 @@ Window transparency</string>
 	</dict>
 	<key>org.w0lf.cDock-GUI</key>
 	<dict>
-		<key>featured</key>
-		<true/>
 		<key>apps</key>
 		<string>Dock</string>
 		<key>author</key>
