@@ -2,8 +2,9 @@
 
 The repository for [MacForge](https://github.com/w0lfschild/MacForge), the macOS Plugin Manager.
 
-## Contributing:
+## Publishing a product:
 
+ - Ceate an Application, [Tweak](#creating-a-tweak) or Theme
  - Fork this project
  - Add your compiled and zipped plugin to the bundles folder `../MacForgeRepo/repo/bundles`
  - Create a folder with the bundleID of you plugin in `../MacForgeRepo/repo/documents`
@@ -13,11 +14,26 @@ The repository for [MacForge](https://github.com/w0lfschild/MacForge), the macOS
  - If you would like to have you protuct featured message me @<>
  - Submit a pull request
  
- ## Selling a product:
+ ## Creating a tweak
+
+ - Fork this project
+ - Open the Example project in `../MacForgeRepo/templates/Example Plugin`
+ - Add your code
+ - You can find header dumps of most Apple Applications [HERE](https://github.com/w0lfschild/macOS_headers)
+ - Build your code
+ - Open your plugin with `MacForge` to load it
+ - Test it!
+ - [Publish it!](#publishing-a-product)
  
+ ## Selling a product
+
+ - [Make something](https://github.com/w0lfschild/MacForge/wiki/Bundles-:-Creating) you want to sell
+ - Open a [Paddle](https://paddle.com) account
+ - Setup your bundle in Paddle
+ - Add your Paddle info to your listing in packages.plist
+- [Publish it!](#publishing-a-product)
  
- 
- ## packages.plist format
+ ## Updating packages.plist:
 
 Every package uses this format:
 
