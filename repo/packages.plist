@@ -2,6 +2,54 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.ann.Pointing2</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>iamDecode</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>iamdecode@me.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Mar 17, 2020</string>
+		<key>description</key>
+		<string>A wobbly windows implementation for MacOS inspired by Compiz for Linux.</string>
+		<key>descriptionShort</key>
+		<string>A wobbly windows implementation for MacOS inspired by Compiz for Linux.</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/iamdecode</string>
+		<key>filename</key>
+		<string>/bundles/Jello_0.0.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://github.com/iamDecode/Jello</string>
+		<key>icon</key>
+		<string>/images/com.ann.Pointing2/icon.png</string>
+		<key>name</key>
+		<string>Jello</string>
+		<key>package</key>
+		<string>com.decode.JelloInject</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>3293476</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>3</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>ca.adambell.DarkDock</key>
 	<dict>
 		<key>apps</key>

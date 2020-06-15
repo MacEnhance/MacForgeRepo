@@ -9,20 +9,34 @@
 /* Begin PBXBuildFile section */
 		FB4907371D62BE6D00FA9D73 /* bundle.m in Sources */ = {isa = PBXBuildFile; fileRef = FB4907361D62BE6D00FA9D73 /* bundle.m */; };
 		FB49073F1D62C22D00FA9D73 /* ZKSwizzle.m in Sources */ = {isa = PBXBuildFile; fileRef = FB49073E1D62C22D00FA9D73 /* ZKSwizzle.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		FB5E0F30247DEA71002C0F00 /* PrefBundle.m in Sources */ = {isa = PBXBuildFile; fileRef = FB5E0F2E247DEA71002C0F00 /* PrefBundle.m */; };
+		FB5E0F31247DEA71002C0F00 /* PrefBundle.xib in Resources */ = {isa = PBXBuildFile; fileRef = FB5E0F2F247DEA71002C0F00 /* PrefBundle.xib */; };
 		FB8F32581E09F00D0039C7E0 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = FB8F32571E09F00D0039C7E0 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FB49072D1D62BDF200FA9D73 /* template.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = template.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB49072D1D62BDF200FA9D73 /* templatePlugin.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = templatePlugin.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB4907301D62BDF200FA9D73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB4907361D62BE6D00FA9D73 /* bundle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = bundle.m; sourceTree = "<group>"; };
 		FB49073D1D62C22D00FA9D73 /* ZKSwizzle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZKSwizzle.h; sourceTree = "<group>"; };
 		FB49073E1D62C22D00FA9D73 /* ZKSwizzle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZKSwizzle.m; sourceTree = "<group>"; };
+		FB5E0F27247DEA06002C0F00 /* templatePrefBundle.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = templatePrefBundle.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB5E0F29247DEA06002C0F00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB5E0F2D247DEA71002C0F00 /* PrefBundle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrefBundle.h; sourceTree = "<group>"; };
+		FB5E0F2E247DEA71002C0F00 /* PrefBundle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrefBundle.m; sourceTree = "<group>"; };
+		FB5E0F2F247DEA71002C0F00 /* PrefBundle.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PrefBundle.xib; sourceTree = "<group>"; };
 		FB8F32571E09F00D0039C7E0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		FB49072A1D62BDF200FA9D73 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB5E0F24247DEA06002C0F00 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -36,6 +50,7 @@
 			isa = PBXGroup;
 			children = (
 				FB49072F1D62BDF200FA9D73 /* template */,
+				FB5E0F28247DEA06002C0F00 /* templatePrefBundle */,
 				FB49072E1D62BDF200FA9D73 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -43,7 +58,8 @@
 		FB49072E1D62BDF200FA9D73 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FB49072D1D62BDF200FA9D73 /* template.bundle */,
+				FB49072D1D62BDF200FA9D73 /* templatePlugin.bundle */,
+				FB5E0F27247DEA06002C0F00 /* templatePrefBundle.bundle */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -68,12 +84,23 @@
 			name = ZKSwizzle;
 			sourceTree = "<group>";
 		};
+		FB5E0F28247DEA06002C0F00 /* templatePrefBundle */ = {
+			isa = PBXGroup;
+			children = (
+				FB5E0F29247DEA06002C0F00 /* Info.plist */,
+				FB5E0F2D247DEA71002C0F00 /* PrefBundle.h */,
+				FB5E0F2E247DEA71002C0F00 /* PrefBundle.m */,
+				FB5E0F2F247DEA71002C0F00 /* PrefBundle.xib */,
+			);
+			path = templatePrefBundle;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FB49072C1D62BDF200FA9D73 /* template */ = {
+		FB49072C1D62BDF200FA9D73 /* templatePlugin */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FB4907331D62BDF200FA9D73 /* Build configuration list for PBXNativeTarget "template" */;
+			buildConfigurationList = FB4907331D62BDF200FA9D73 /* Build configuration list for PBXNativeTarget "templatePlugin" */;
 			buildPhases = (
 				FB4907291D62BDF200FA9D73 /* Sources */,
 				FB49072A1D62BDF200FA9D73 /* Frameworks */,
@@ -85,9 +112,26 @@
 			);
 			dependencies = (
 			);
-			name = template;
+			name = templatePlugin;
 			productName = template;
-			productReference = FB49072D1D62BDF200FA9D73 /* template.bundle */;
+			productReference = FB49072D1D62BDF200FA9D73 /* templatePlugin.bundle */;
+			productType = "com.apple.product-type.bundle";
+		};
+		FB5E0F26247DEA06002C0F00 /* templatePrefBundle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FB5E0F2C247DEA06002C0F00 /* Build configuration list for PBXNativeTarget "templatePrefBundle" */;
+			buildPhases = (
+				FB5E0F23247DEA06002C0F00 /* Sources */,
+				FB5E0F24247DEA06002C0F00 /* Frameworks */,
+				FB5E0F25247DEA06002C0F00 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = templatePrefBundle;
+			productName = templatePrefBundle;
+			productReference = FB5E0F27247DEA06002C0F00 /* templatePrefBundle.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -102,6 +146,10 @@
 					FB49072C1D62BDF200FA9D73 = {
 						CreatedOnToolsVersion = 8.0;
 						DevelopmentTeam = EX596BNL45;
+						ProvisioningStyle = Automatic;
+					};
+					FB5E0F26247DEA06002C0F00 = {
+						CreatedOnToolsVersion = 11.5;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -119,7 +167,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FB49072C1D62BDF200FA9D73 /* template */,
+				FB49072C1D62BDF200FA9D73 /* templatePlugin */,
+				FB5E0F26247DEA06002C0F00 /* templatePrefBundle */,
 			);
 		};
 /* End PBXProject section */
@@ -129,6 +178,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB5E0F25247DEA06002C0F00 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FB5E0F31247DEA71002C0F00 /* PrefBundle.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +233,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		FB5E0F23247DEA06002C0F00 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FB5E0F30247DEA71002C0F00 /* PrefBundle.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
@@ -220,7 +285,6 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
@@ -262,7 +326,6 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
 			};
@@ -272,12 +335,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
 				DEPLOYMENT_LOCATION = YES;
 				DEVELOPMENT_TEAM = EX596BNL45;
 				DSTROOT = /;
 				INFOPLIST_FILE = template/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Application Support/MacEnhance/Plugins";
-				PRODUCT_BUNDLE_IDENTIFIER = com.macenhance.template;
+				PRODUCT_BUNDLE_IDENTIFIER = com.macenhance.templatePlugin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = bundle;
 			};
@@ -287,13 +351,77 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
 				DEPLOYMENT_LOCATION = YES;
 				DEVELOPMENT_TEAM = EX596BNL45;
 				DSTROOT = /;
 				INFOPLIST_FILE = template/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Application Support/MacEnhance/Plugins";
-				PRODUCT_BUNDLE_IDENTIFIER = com.macenhance.template;
+				PRODUCT_BUNDLE_IDENTIFIER = com.macenhance.templatePlugin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		FB5E0F2A247DEA06002C0F00 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEPLOYMENT_LOCATION = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				INFOPLIST_FILE = templatePrefBundle/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Application Support/MacEnhance/Preferences";
+				MARKETING_VERSION = 0.0.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.macenhance.templatePrefBundle;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = NO;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		FB5E0F2B247DEA06002C0F00 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEPLOYMENT_LOCATION = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				INFOPLIST_FILE = templatePrefBundle/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Application Support/MacEnhance/Preferences";
+				MARKETING_VERSION = 0.0.1;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.macenhance.templatePrefBundle;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = NO;
 				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
@@ -310,11 +438,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FB4907331D62BDF200FA9D73 /* Build configuration list for PBXNativeTarget "template" */ = {
+		FB4907331D62BDF200FA9D73 /* Build configuration list for PBXNativeTarget "templatePlugin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FB4907341D62BDF200FA9D73 /* Debug */,
 				FB4907351D62BDF200FA9D73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FB5E0F2C247DEA06002C0F00 /* Build configuration list for PBXNativeTarget "templatePrefBundle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB5E0F2A247DEA06002C0F00 /* Debug */,
+				FB5E0F2B247DEA06002C0F00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
