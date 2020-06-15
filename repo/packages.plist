@@ -15,9 +15,9 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Mar 17, 2020</string>
+		<string>Jun 15, 2020</string>
 		<key>description</key>
-		<string>Customize the mouse cursor</string>
+		<string>The ultimate tool to create and use customized mouse cursors on macOS.</string>
 		<key>descriptionShort</key>
 		<string>Customize the mouse cursor</string>
 		<key>donate</key>
@@ -55,7 +55,7 @@
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
-		<string>iamDecode</string>
+		<string></string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
@@ -63,25 +63,25 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Mar 17, 2020</string>
+		<string>Jun 15, 2020</string>
 		<key>description</key>
-		<string>A wobbly windows implementation for MacOS inspired by Compiz for Linux.</string>
+		<string>A pointy finger cursor replacement</string>
 		<key>descriptionShort</key>
-		<string>A wobbly windows implementation for MacOS inspired by Compiz for Linux.</string>
+		<string>A pointy finger</string>
 		<key>donate</key>
-		<string>https://www.paypal.me/iamdecode</string>
+		<string></string>
 		<key>filename</key>
-		<string>/bundles/Jello_0.0.2.zip</string>
+		<string></string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
-		<string>https://github.com/iamDecode/Jello</string>
+		<string></string>
 		<key>icon</key>
 		<string>/images/com.ann.Pointing2/icon.png</string>
 		<key>name</key>
-		<string>Jello</string>
+		<string>Pointing2</string>
 		<key>package</key>
-		<string>com.decode.JelloInject</string>
+		<string>com.ann.Pointing2</string>
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
