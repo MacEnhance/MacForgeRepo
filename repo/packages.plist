@@ -2,8 +2,179 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.allan.futuretech</key>
+	<dict>
+		<key>apps</key>
+		<string>Mousecape</string>
+		<key>author</key>
+		<string>Allan</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string></string>
+		<key>date</key>
+		<string>Jun 16, 2020</string>
+		<key>description</key>
+		<string>Futeristic cusror replacement for Mousecape</string>
+		<key>descriptionShort</key>
+		<string>Futeristic cusror for Mousecape</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/com.allan.futuretech.cape.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>FuterTech Cursor</string>
+		<key>package</key>
+		<string>com.allan.futuretech</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>3293476</integer>
+		<key>system</key>
+		<dict>
+			<key>LIB</key>
+			<true/>
+			<key>SIP</key>
+			<true/>
+		</dict>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.alexzielenski.Mousecape</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>cape</string>
+		<key>version</key>
+		<string>1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.ann.Pointing2</key>
+	<dict>
+		<key>banner</key>
+		<string>https://media.giphy.com/media/3o85xnJbpCYSl59vri/source.gif</string>
+		<key>apps</key>
+		<string>Mousecape</string>
+		<key>author</key>
+		<string>Ann</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string></string>
+		<key>date</key>
+		<string>Jun 15, 2020</string>
+		<key>description</key>
+		<string>A pointy finger cursor replacement for Mousecape</string>
+		<key>descriptionShort</key>
+		<string>A pointy finger for Mousecape</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/com.ann.Pointing2.cape.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>Pointing2</string>
+		<key>package</key>
+		<string>com.ann.Pointing2</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>3293476</integer>
+		<key>system</key>
+		<dict>
+			<key>LIB</key>
+			<true/>
+			<key>SIP</key>
+			<true/>
+		</dict>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.alexzielenski.Mousecape</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>cape</string>
+		<key>version</key>
+		<string>3</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>app.todeska.Todeska</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Jeremy Legendre</string>
+		<key>compat</key>
+		<string>macOS 10.13+</string>
+		<key>contact</key>
+		<string>jslegendre@gmail.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Jun 15, 2020</string>
+		<key>description</key>
+		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   &quot;What Dashboard should have become.&quot; -zombi3gee</string>
+		<key>descriptionShort</key>
+		<string>Transform Today Extensions into Desktop Widgets</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/Todeska_1.4.1.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://www.todeska.app/</string>
+		<key>icon</key>
+		<string>/images/app.todeska.Todeska/icon.png</string>
+		<key>name</key>
+		<string>Todeska</string>
+		<key>package</key>
+		<string>app.todeska.Todeska</string>
+		<key>paddle</key>
+		<dict>
+			<key>apikey</key>
+			<string>508205c7de527e9cc702cd1b1e5e2733</string>
+			<key>productid</key>
+			<string>573452</string>
+			<key>vendorid</key>
+			<string>102003</string>
+		</dict>
+		<key>price</key>
+		<string>Trial</string>
+		<key>productID</key>
+		<string>573452</string>
+		<key>size</key>
+		<integer>8325840</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.notificationcenterui</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>app</string>
+		<key>version</key>
+		<string>1.4.1</string>
+		<key>webpage</key>
+		<string>https://www.todeska.app/</string>
+	</dict>
 	<key>com.alexzielenski.Mousecape</key>
 	<dict>
+		<key>markdown</key>
+		<true/>
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
@@ -38,6 +209,13 @@
 		<string>Free</string>
 		<key>size</key>
 		<integer>3293476</integer>
+		<key>system</key>
+		<dict>
+			<key>LIB</key>
+			<true/>
+			<key>SIP</key>
+			<true/>
+		</dict>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -45,56 +223,10 @@
 				<string>*</string>
 			</dict>
 		</array>
+		<key>type</key>
+		<string>app</string>
 		<key>version</key>
 		<string>1813</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>com.ann.Pointing2</key>
-	<dict>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string></string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>iamdecode@me.com</string>
-		<key>customIcon</key>
-		<true/>
-		<key>date</key>
-		<string>Jun 15, 2020</string>
-		<key>description</key>
-		<string>A pointy finger cursor replacement</string>
-		<key>descriptionShort</key>
-		<string>A pointy finger</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string></string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string></string>
-		<key>icon</key>
-		<string>/images/com.ann.Pointing2/icon.png</string>
-		<key>name</key>
-		<string>Pointing2</string>
-		<key>package</key>
-		<string>com.ann.Pointing2</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<integer>3293476</integer>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>3</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -188,8 +320,6 @@
 	</dict>
 	<key>com.alexbeals.SpacesRenamer</key>
 	<dict>
-		<key>featured</key>
-		<true/>
 		<key>apps</key>
 		<string>Dock</string>
 		<key>author</key>
@@ -255,9 +385,9 @@
 		<key>date</key>
 		<string>Mar 17, 2020</string>
 		<key>description</key>
-		<string>A wobbly windows implementation for MacOS inspired by Compiz for Linux.</string>
+		<string>A fun wobbly windows implementation for MacOS inspired by Compiz for Linux. Note that this can cause issues for some windows.</string>
 		<key>descriptionShort</key>
-		<string>A wobbly windows implementation for MacOS inspired by Compiz for Linux.</string>
+		<string>Windows wobble when dragged</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/iamdecode</string>
 		<key>filename</key>
@@ -332,6 +462,8 @@
 	</dict>
 	<key>com.github.jslegendre.AfloatX</key>
 	<dict>
+		<key>icon</key>
+		<string>/images/com.github.jslegendre.AfloatX/icon.png</string>
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
@@ -354,13 +486,15 @@ Click-Through window: Window is invisible to clicks (best paired with a floating
 Outline Window: Outline window with 1 of 8 colors
 Window transparency</string>
 		<key>descriptionShort</key>
-		<string>A powerful yet discreet plugin to add extra features to your windows and window management</string>
+		<string>Add extra features to your windows</string>
 		<key>filename</key>
 		<string>/bundles/AfloatX_1.3.5.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
 		<string>https://github.com/jslegendre/AfloatX</string>
+		<key>markdown</key>
+		<true/>
 		<key>name</key>
 		<string>AfloatX</string>
 		<key>package</key>
@@ -501,7 +635,7 @@ Window transparency</string>
 		<key>descriptionShort</key>
 		<string>A Messages indicator for when you haven&apos;t responded</string>
 		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
+		<string></string>
 		<key>filename</key>
 		<string>/bundles/message-indicator_1.1.0.zip</string>
 		<key>homepage</key>
@@ -1305,7 +1439,7 @@ Window transparency</string>
 		<key>description</key>
 		<string>Simple bundle to give Terminal a borderless, shadowless look</string>
 		<key>descriptionShort</key>
-		<string>borderless, shadowless Terminal.app</string>
+		<string>Borderless, shadowless Terminal.app</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -1424,6 +1558,11 @@ Window transparency</string>
 	</dict>
 	<key>org.w0lf.cDock-GUI</key>
 	<dict>
+		<key>system</key>
+		<dict>
+			<key>LIB</key>
+			<true/>
+		</dict>
 		<key>apps</key>
 		<string>Dock</string>
 		<key>author</key>
@@ -1526,8 +1665,10 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>webpage</key>
 		<string></string>
 	</dict>
-	<key>org.w0lf.colorfulSidebar9</key>
+	<key>com.macenhance.colorfulSidebarX</key>
 	<dict>
+		<key>banner</key>
+		<string>https://media.giphy.com/media/FE0WTM8BG754I/source.gif</string>
 		<key>featured</key>
 		<true/>
 		<key>apps</key>
@@ -1539,7 +1680,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Mar 24, 2020</string>
+		<string>Jun 15, 2020</string>
 		<key>description</key>
 		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
 		<key>descriptionShort</key>
@@ -1553,9 +1694,9 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
-		<string>colorfulSidebar</string>
+		<string>colorfulSidebarX</string>
 		<key>package</key>
-		<string>org.w0lf.colorfulSidebar9</string>
+		<string>com.macenhance.colorfulSidebarX</string>
 		<key>payed</key>
 		<true/>
 		<key>price</key>
@@ -1586,6 +1727,8 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 	</dict>
 	<key>org.w0lf.moreMenu</key>
 	<dict>
+		<key>customIcon</key>
+		<true/>
 		<key>featured</key>
 		<true/>
 		<key>apps</key>
@@ -1599,9 +1742,9 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>date</key>
 		<string>Jul 12, 2018</string>
 		<key>description</key>
-		<string>Shrink the menubar of the running application</string>
+		<string>Collapse and expand the current applications menubar to provide a clutter free experience or give more menubar space on small displays. Settetings are save per-app and the state should save and restore when an app quits and re-opens.</string>
 		<key>descriptionShort</key>
-		<string>Shrink the menubar of the running application</string>
+		<string>Bartender for the left side</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -1651,7 +1794,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>description</key>
 		<string>Adds an item to the statusbar which displays iMessage typing and read receipts.</string>
 		<key>descriptionShort</key>
-		<string>iMessage typing / read indicator the status bar</string>
+		<string>iMessage typing / read indicator for the status bar</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -1699,7 +1842,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>description</key>
 		<string>ColorMenu is a MacForge plugin that makes your Statusbar Items match the system accent color.</string>
 		<key>descriptionShort</key>
-		<string>Brings color to your Statusbar Items!</string>
+		<string>Brings color to your Statusbar Items</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -1794,7 +1937,7 @@ Add Volume control to dock menu
 Restart Podcasts
 Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>descriptionShort</key>
-		<string>Adds a few cool features to the new Podcasts app on macOS 10.15</string>
+		<string>Add useful features to the Podcasts app</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -1892,7 +2035,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>description</key>
 		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
 		<key>descriptionShort</key>
-		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
+		<string>Send messages with effects</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -2069,6 +2212,8 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 	</dict>
 	<key>org.w0lf.FScriptLoader</key>
 	<dict>
+		<key>markdown</key>
+		<true/>
 		<key>featured</key>
 		<true/>
 		<key>apps</key>
@@ -2082,7 +2227,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Sep 22, 2019</string>
 		<key>description</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use MacForge to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>descriptionShort</key>
 		<string>Load F-Script into all applications</string>
 		<key>donate</key>
@@ -2461,7 +2606,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
-		<string>iTunesPlus</string>
+		<string>MusicPlus</string>
 		<key>package</key>
 		<string>org.w0lf.iTunesPlus</string>
 		<key>price</key>
@@ -2541,7 +2686,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Mar 24, 2020</string>
 		<key>description</key>
-		<string>spotifyPlus is a SIMBL plugin that adds some features to the Spotify desktop player
+		<string>spotifyPlus is a MacForge plugin that adds some features to the Spotify desktop player
 - Automatically mute audio ads
 - Block all ads (requires password to enable)
 - Change the dock icon to the now playing track art (three options)
@@ -2594,7 +2739,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Nov 04, 2019</string>
 		<key>description</key>
-		<string>winBuddy is a SIMBL plugin that removes the shadow around windows in every application window on macOS it also allows for hiding the menubar and dock and placing a border around windows.</string>
+		<string>winBuddy is a MacForge plugin that removes the shadow around windows in every application window on macOS it also allows for hiding the menubar and dock and placing a border around windows.</string>
 		<key>descriptionShort</key>
 		<string>Removes window shadow, black border and more</string>
 		<key>donate</key>
