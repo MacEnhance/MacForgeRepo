@@ -2,114 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>com.allan.futuretech</key>
-	<dict>
-		<key>apps</key>
-		<string>Mousecape</string>
-		<key>author</key>
-		<string>Allan</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string></string>
-		<key>date</key>
-		<string>Jun 16, 2020</string>
-		<key>description</key>
-		<string>Futeristic cusror replacement for Mousecape</string>
-		<key>descriptionShort</key>
-		<string>Futeristic cusror for Mousecape</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/com.allan.futuretech.cape.zip</string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>FuterTech Cursor</string>
-		<key>package</key>
-		<string>com.allan.futuretech</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<integer>3293476</integer>
-		<key>system</key>
-		<dict>
-			<key>LIB</key>
-			<true/>
-			<key>SIP</key>
-			<true/>
-		</dict>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.alexzielenski.Mousecape</string>
-			</dict>
-		</array>
-		<key>type</key>
-		<string>cape</string>
-		<key>version</key>
-		<string>1</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>com.ann.Pointing2</key>
-	<dict>
-		<key>banner</key>
-		<string>https://media.giphy.com/media/3o85xnJbpCYSl59vri/source.gif</string>
-		<key>apps</key>
-		<string>Mousecape</string>
-		<key>author</key>
-		<string>Ann</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string></string>
-		<key>date</key>
-		<string>Jun 15, 2020</string>
-		<key>description</key>
-		<string>A pointy finger cursor replacement for Mousecape</string>
-		<key>descriptionShort</key>
-		<string>A pointy finger for Mousecape</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/com.ann.Pointing2.cape.zip</string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>Pointing2</string>
-		<key>package</key>
-		<string>com.ann.Pointing2</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<integer>3293476</integer>
-		<key>system</key>
-		<dict>
-			<key>LIB</key>
-			<true/>
-			<key>SIP</key>
-			<true/>
-		</dict>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.alexzielenski.Mousecape</string>
-			</dict>
-		</array>
-		<key>type</key>
-		<string>cape</string>
-		<key>version</key>
-		<string>3</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
 	<key>app.todeska.Todeska</key>
 	<dict>
 		<key>apps</key>
@@ -125,7 +17,7 @@
 		<key>date</key>
 		<string>Jun 15, 2020</string>
 		<key>description</key>
-		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   &quot;What Dashboard should have become.&quot; -zombi3gee</string>
+		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   "What Dashboard should have become." -zombi3gee</string>
 		<key>descriptionShort</key>
 		<string>Transform Today Extensions into Desktop Widgets</string>
 		<key>donate</key>
@@ -156,7 +48,7 @@
 		<key>productID</key>
 		<string>573452</string>
 		<key>size</key>
-		<integer>8325840</integer>
+		<integer>8711380</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -170,65 +62,6 @@
 		<string>1.4.1</string>
 		<key>webpage</key>
 		<string>https://www.todeska.app/</string>
-	</dict>
-	<key>com.alexzielenski.Mousecape</key>
-	<dict>
-		<key>markdown</key>
-		<true/>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string>Alex Zielenski</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string></string>
-		<key>customIcon</key>
-		<true/>
-		<key>date</key>
-		<string>Jun 15, 2020</string>
-		<key>description</key>
-		<string>The ultimate tool to create and use customized mouse cursors on macOS.</string>
-		<key>descriptionShort</key>
-		<string>Customize the mouse cursor</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/Mousecape.zip</string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string>https://github.com/alexzielenski/Mousecape</string>
-		<key>icon</key>
-		<string>/images/com.alexzielenski.Mousecape/icon.png</string>
-		<key>name</key>
-		<string>Mousecape</string>
-		<key>package</key>
-		<string>com.alexzielenski.Mousecape</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<integer>3293476</integer>
-		<key>system</key>
-		<dict>
-			<key>LIB</key>
-			<true/>
-			<key>SIP</key>
-			<true/>
-		</dict>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>type</key>
-		<string>app</string>
-		<key>version</key>
-		<string>1813</string>
-		<key>webpage</key>
-		<string></string>
 	</dict>
 	<key>ca.adambell.DarkDock</key>
 	<dict>
@@ -250,6 +83,8 @@
 		<string></string>
 		<key>filename</key>
 		<string>/bundles/DarkDock_1.0.zip</string>
+		<key>hasPreview</key>
+		<true/>
 		<key>homepage</key>
 		<string>https://github.com/b3ll/DarkDock/</string>
 		<key>name</key>
@@ -370,6 +205,173 @@
 		<key>webpage</key>
 		<string>https://alexbeals.com/</string>
 	</dict>
+	<key>com.alexzielenski.Mousecape</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Alex Zielenski</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string></string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Jun 15, 2020</string>
+		<key>description</key>
+		<string>The ultimate tool to create and use customized mouse cursors on macOS.</string>
+		<key>descriptionShort</key>
+		<string>Customize the mouse cursor</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/Mousecape.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://github.com/alexzielenski/Mousecape</string>
+		<key>icon</key>
+		<string>/images/com.alexzielenski.Mousecape/icon.png</string>
+		<key>markdown</key>
+		<true/>
+		<key>name</key>
+		<string>Mousecape</string>
+		<key>package</key>
+		<string>com.alexzielenski.Mousecape</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>4694856</integer>
+		<key>system</key>
+		<dict>
+			<key>LIB</key>
+			<true/>
+			<key>SIP</key>
+			<true/>
+		</dict>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>app</string>
+		<key>version</key>
+		<string>1813</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.allan.futuretech</key>
+	<dict>
+		<key>apps</key>
+		<string>Mousecape</string>
+		<key>author</key>
+		<string>Allan</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string></string>
+		<key>date</key>
+		<string>Jun 16, 2020</string>
+		<key>description</key>
+		<string>Futeristic cusror replacement for Mousecape</string>
+		<key>descriptionShort</key>
+		<string>Futeristic cusror for Mousecape</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/com.allan.futuretech.cape.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>FuterTech Cursor</string>
+		<key>package</key>
+		<string>com.allan.futuretech</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>506291</integer>
+		<key>system</key>
+		<dict>
+			<key>LIB</key>
+			<true/>
+			<key>SIP</key>
+			<true/>
+		</dict>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.alexzielenski.Mousecape</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>cape</string>
+		<key>version</key>
+		<string>1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.ann.Pointing2</key>
+	<dict>
+		<key>apps</key>
+		<string>Mousecape</string>
+		<key>author</key>
+		<string>Ann</string>
+		<key>banner</key>
+		<string>https://media.giphy.com/media/3o85xnJbpCYSl59vri/source.gif</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string></string>
+		<key>date</key>
+		<string>Jun 15, 2020</string>
+		<key>description</key>
+		<string>A pointy finger cursor replacement for Mousecape</string>
+		<key>descriptionShort</key>
+		<string>A pointy finger for Mousecape</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/com.ann.Pointing2.cape.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>Pointing2</string>
+		<key>package</key>
+		<string>com.ann.Pointing2</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>106705</integer>
+		<key>system</key>
+		<dict>
+			<key>LIB</key>
+			<true/>
+			<key>SIP</key>
+			<true/>
+		</dict>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.alexzielenski.Mousecape</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>cape</string>
+		<key>version</key>
+		<string>3</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>com.decode.JelloInject</key>
 	<dict>
 		<key>apps</key>
@@ -462,8 +464,6 @@
 	</dict>
 	<key>com.github.jslegendre.AfloatX</key>
 	<dict>
-		<key>icon</key>
-		<string>/images/com.github.jslegendre.AfloatX/icon.png</string>
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
@@ -472,14 +472,16 @@
 		<string>macOS 10.14+</string>
 		<key>contact</key>
 		<string>jslegendre@gmail.com</string>
+		<key>customIcon</key>
+		<true/>
 		<key>date</key>
-		<string>Mar 17, 2020</string>
+		<string>Jun 16, 2020</string>
 		<key>description</key>
 		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to give you some additional window management features.  
 Current features are: 
 Keep window on top (floating window)
 Keep window on behind all other windows
-Transient mode: Always come to focus in current space. Won&apos;t force you back to that windows last active space
+Transient mode: Always come to focus in current space. Won't force you back to that windows last active space
 Sticky mode: Window stays visible on all spaces
 Invert window color
 Click-Through window: Window is invisible to clicks (best paired with a floating window)
@@ -488,11 +490,13 @@ Window transparency</string>
 		<key>descriptionShort</key>
 		<string>Add extra features to your windows</string>
 		<key>filename</key>
-		<string>/bundles/AfloatX_1.3.5.zip</string>
+		<string>/bundles/AfloatX_1.3.6.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
 		<string>https://github.com/jslegendre/AfloatX</string>
+		<key>icon</key>
+		<string>/images/com.github.jslegendre.AfloatX/icon.png</string>
 		<key>markdown</key>
 		<true/>
 		<key>name</key>
@@ -502,7 +506,7 @@ Window transparency</string>
 		<key>price</key>
 		<string>$0.00</string>
 		<key>size</key>
-		<integer>347367</integer>
+		<integer>354121</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -511,7 +515,7 @@ Window transparency</string>
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.3.5</string>
+		<string>1.3.6</string>
 		<key>webpage</key>
 		<string>https://github.com/jslegendre/AfloatX</string>
 	</dict>
@@ -589,7 +593,7 @@ Window transparency</string>
 		<key>date</key>
 		<string>Oct 26, 2019</string>
 		<key>description</key>
-		<string>Expand Bartender 3 on mouse over. Now you won&apos;t have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
+		<string>Expand Bartender 3 on mouse over. Now you won't have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
 		<key>descriptionShort</key>
 		<string>Expand Bartender 3 on mouse over</string>
 		<key>filename</key>
@@ -631,9 +635,9 @@ Window transparency</string>
 		<key>date</key>
 		<string>Apr 14, 2018</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven&apos;t responded</string>
+		<string>A Messages indicator for when you haven't responded</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -744,6 +748,205 @@ Window transparency</string>
 		<key>webpage</key>
 		<string>https://github.com/kuglee/BatteryExtra</string>
 	</dict>
+	<key>com.macenhance.ColorMenuItems</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Mar 17, 2020</string>
+		<key>description</key>
+		<string>ColorMenu is a MacForge plugin that makes your Statusbar Items match the system accent color.</string>
+		<key>descriptionShort</key>
+		<string>Brings color to your Statusbar Items</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/ColorMenuItems_0.6.9.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>Color Menu</string>
+		<key>package</key>
+		<string>com.macenhance.ColorMenuItems</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>20999</integer>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.6.9</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.macenhance.ColorTracks</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Mar 17, 2020</string>
+		<key>description</key>
+		<string>ColorTracks is a MacForge plugin that adds some features to Apples Now Playing Widget.
+Color match controls to albumn art
+Color match backgorund to aldumn art
+Scrolling track titles</string>
+		<key>descriptionShort</key>
+		<string>Add some color to the Now playing widget</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/ColorTracks_1.1.0.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>ColorTracks</string>
+		<key>package</key>
+		<string>com.macenhance.ColorTracks</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>33275</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple..NowPlayingWidgetContainer</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.macenhance.colorfulSidebarX</key>
+	<dict>
+		<key>apps</key>
+		<string>Finder</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>banner</key>
+		<string>https://media.giphy.com/media/FE0WTM8BG754I/source.gif</string>
+		<key>compat</key>
+		<string>macOS 10.14+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Jun 16, 2020</string>
+		<key>description</key>
+		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
+		<key>descriptionShort</key>
+		<string>Colorful Finder sidebar</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>featured</key>
+		<true/>
+		<key>filename</key>
+		<string>/bundles/colorfulSidebarX_2.1.1.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>colorfulSidebarX</string>
+		<key>package</key>
+		<string>com.macenhance.colorfulSidebarX</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productID</key>
+		<string>535218</string>
+		<key>size</key>
+		<integer>269123</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.finder</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.security.pboxd</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.appkit.xpc.openAndSavePanelService</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>2.1.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.macenhance.podcastsPlus</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Mar 17, 2020</string>
+		<key>description</key>
+		<string>podcastsPlus is a MacForge plugin that adds some features to the Spotify desktop player
+Change the dock icon to the now playing track art
+Add progress bar to dock icon
+Add Play/Pause, Next, Previous and Seek options to dock menu
+Add Volume control to dock menu
+Restart Podcasts
+Settings in Dock menu and podcasts+ item in the menubar</string>
+		<key>descriptionShort</key>
+		<string>Add useful features to the Podcasts app</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/podcastsPlus_1.1.0.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>podcastsPlus</string>
+		<key>package</key>
+		<string>com.macenhance.podcastsPlus</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>820946</integer>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.podcasts</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>com.mneorr.Alcatraz</key>
 	<dict>
 		<key>apps</key>
@@ -785,6 +988,58 @@ Window transparency</string>
 		<string>1.2.1</string>
 		<key>webpage</key>
 		<string>http://alcatraz.io/</string>
+	</dict>
+	<key>com.nateparrott.Flashlight</key>
+	<dict>
+		<key>apps</key>
+		<string>Spotlight</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Dec 31, 2019</string>
+		<key>description</key>
+		<string>Flashlight is an unofficial Spotlight API that allows you to programmatically process queries and add additional results.</string>
+		<key>descriptionShort</key>
+		<string>Add plugins to Spotlight 🔍</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>featured</key>
+		<true/>
+		<key>filename</key>
+		<string>/bundles/Flashlight_1.2.0.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>icon</key>
+		<string>/images/com.nateparrott.Flashlight/icon.png</string>
+		<key>name</key>
+		<string>Flashlight</string>
+		<key>package</key>
+		<string>com.nateparrott.Flashlight</string>
+		<key>payed</key>
+		<false/>
+		<key>price</key>
+		<string></string>
+		<key>size</key>
+		<integer>3273759</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Spotlight</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>app</string>
+		<key>version</key>
+		<string>1.2.0</string>
 	</dict>
 	<key>com.pooriaazimi.betterdictionary</key>
 	<dict>
@@ -848,6 +1103,8 @@ Window transparency</string>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
 		<string>/bundles/RadonChrome_1.0.zip</string>
+		<key>hasPreview</key>
+		<true/>
 		<key>homepage</key>
 		<string>https://github.com/w0lfschild/RadonChrome/</string>
 		<key>name</key>
@@ -958,6 +1215,52 @@ Window transparency</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>com.sky.imessageParity</key>
+	<dict>
+		<key>apps</key>
+		<string>Messages</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>May 29, 2018</string>
+		<key>description</key>
+		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
+		<key>descriptionShort</key>
+		<string>Send messages with effects</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>featured</key>
+		<true/>
+		<key>filename</key>
+		<string>/bundles/iMessageParity_0.1.3.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>iMessageParity</string>
+		<key>package</key>
+		<string>com.sky.imessageParity</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>67952</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.iChat</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.1.3</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>com.yourcompany.MenuBarHider</key>
 	<dict>
 		<key>apps</key>
@@ -1055,9 +1358,9 @@ Window transparency</string>
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
-		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
+		<string>Disable Spotify's badging/bouncing of the dock icon</string>
 		<key>descriptionShort</key>
-		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
+		<string>Disable Spotify's badging/bouncing of the dock icon</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -1382,6 +1685,54 @@ Window transparency</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>net.infinite-labs.Afloat</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Jan 16, 2017</string>
+		<key>description</key>
+		<string>Adds useful window management commands to applications</string>
+		<key>descriptionShort</key>
+		<string>Adds useful window management commands to applications</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/Afloat_2.5.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>icon</key>
+		<string>/images/net.infinite-labs.Afloat/icon.png</string>
+		<key>name</key>
+		<string>Afloat</string>
+		<key>package</key>
+		<string>net.infinite-labs.Afloat</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>474036</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>2.5.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>org.bitheap.MouseTerm</key>
 	<dict>
 		<key>apps</key>
@@ -1514,604 +1865,6 @@ Window transparency</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
-	<key>ws.hbang.typestatus.mac</key>
-	<dict>
-		<key>apps</key>
-		<string>Messages</string>
-		<key>author</key>
-		<string>HASHBANG Productions</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@hbang.ws</string>
-		<key>date</key>
-		<string>Dec 21, 2016</string>
-		<key>description</key>
-		<string>Disply a notification when others are typing in Messages</string>
-		<key>descriptionShort</key>
-		<string>Disply a notification when others are typing in Messages</string>
-		<key>donate</key>
-		<string>https://hbang.ws/donate/</string>
-		<key>filename</key>
-		<string>/bundles/TypeStatus_1.0.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>TypeStatus</string>
-		<key>package</key>
-		<string>ws.hbang.typestatus.mac</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<integer>16275</integer>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.iChat</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.0</string>
-		<key>webpage</key>
-		<string>https://typestatus.com/</string>
-	</dict>
-	<key>org.w0lf.cDock-GUI</key>
-	<dict>
-		<key>system</key>
-		<dict>
-			<key>LIB</key>
-			<true/>
-		</dict>
-		<key>apps</key>
-		<string>Dock</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.10+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>customIcon</key>
-		<true/>
-		<key>date</key>
-		<string>Mar 17, 2020</string>
-		<key>description</key>
-		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
-
-There are many ways to configure cDock as you wish. Give it a go and find out!</string>
-		<key>descriptionShort</key>
-		<string>Customize your dock appearance</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/cDock_3.1.2.zip</string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string>https://cdock.macenhance.com/</string>
-		<key>name</key>
-		<string>cDock 3</string>
-		<key>package</key>
-		<string>org.w0lf.cDock-GUI</string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$4.99</string>
-		<key>productID</key>
-		<string>520974</string>
-		<key>size</key>
-		<integer>14709851</integer>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.dock</string>
-			</dict>
-		</array>
-		<key>type</key>
-		<string>app</string>
-		<key>version</key>
-		<string>3.1.2</string>
-		<key>webpage</key>
-		<string>https://cdock.macenhance.com/</string>
-	</dict>
-	<key>org.w0lf.cleanHUD</key>
-	<dict>
-		<key>featured</key>
-		<true/>
-		<key>apps</key>
-		<string>loginwindow</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Nov 28, 2019</string>
-		<key>description</key>
-		<string>Customizes the volume, screen and keyboard brightness HUDs to be minimal and unobtrusive, like they should be.</string>
-		<key>descriptionShort</key>
-		<string>Minimal HUDs </string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/cleanHUD_0.7.3.zip</string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>cleanHUD</string>
-		<key>package</key>
-		<string>org.w0lf.cleanHUD</string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$1.99</string>
-		<key>productID</key>
-		<string>535217</string>
-		<key>size</key>
-		<integer>62555</integer>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.loginwindow</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.7.3</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>com.macenhance.colorfulSidebarX</key>
-	<dict>
-		<key>banner</key>
-		<string>https://media.giphy.com/media/FE0WTM8BG754I/source.gif</string>
-		<key>featured</key>
-		<true/>
-		<key>apps</key>
-		<string>Finder</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.14+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Jun 15, 2020</string>
-		<key>description</key>
-		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
-		<key>descriptionShort</key>
-		<string>Colorful Finder sidebar</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/colorfulSidebar9_2.0.2.zip</string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>colorfulSidebarX</string>
-		<key>package</key>
-		<string>com.macenhance.colorfulSidebarX</string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$1.99</string>
-		<key>productID</key>
-		<string>535218</string>
-		<key>size</key>
-		<integer>230987</integer>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.finder</string>
-			</dict>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.security.pboxd</string>
-			</dict>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.appkit.xpc.openAndSavePanelService</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>2.0.2</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>org.w0lf.moreMenu</key>
-	<dict>
-		<key>customIcon</key>
-		<true/>
-		<key>featured</key>
-		<true/>
-		<key>apps</key>
-		<string>All</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Jul 12, 2018</string>
-		<key>description</key>
-		<string>Collapse and expand the current applications menubar to provide a clutter free experience or give more menubar space on small displays. Settetings are save per-app and the state should save and restore when an app quits and re-opens.</string>
-		<key>descriptionShort</key>
-		<string>Bartender for the left side</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/moreMenu_0.3.2.zip</string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>moreMenu</string>
-		<key>package</key>
-		<string>org.w0lf.moreMenu</string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$1.99</string>
-		<key>productID</key>
-		<string>534450</string>
-		<key>size</key>
-		<integer>21196</integer>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.3.2</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>org.w0lf.whosTyping</key>
-	<dict>
-		<key>featured</key>
-		<true/>
-		<key>apps</key>
-		<string>Messages</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.10+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Feb 03, 2018</string>
-		<key>description</key>
-		<string>Adds an item to the statusbar which displays iMessage typing and read receipts.</string>
-		<key>descriptionShort</key>
-		<string>iMessage typing / read indicator for the status bar</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/whosTyping_0.0.2.zip</string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>whosTyping</string>
-		<key>package</key>
-		<string>org.w0lf.whosTyping</string>
-		<key>payed</key>
-		<true/>
-		<key>price</key>
-		<string>$0.99</string>
-		<key>productID</key>
-		<string>535221</string>
-		<key>size</key>
-		<integer>181557</integer>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.iChat</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.0.2</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>com.macenhance.ColorMenuItems</key>
-	<dict>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Mar 17, 2020</string>
-		<key>description</key>
-		<string>ColorMenu is a MacForge plugin that makes your Statusbar Items match the system accent color.</string>
-		<key>descriptionShort</key>
-		<string>Brings color to your Statusbar Items</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/ColorMenuItems_0.6.9.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>Color Menu</string>
-		<key>package</key>
-		<string>com.macenhance.ColorMenuItems</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<integer>20999</integer>
-		<key>target</key>
-		<string>null</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.6.9</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>com.macenhance.ColorTracks</key>
-	<dict>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Mar 17, 2020</string>
-		<key>description</key>
-		<string>ColorTracks is a MacForge plugin that adds some features to Apples Now Playing Widget.
-Color match controls to albumn art
-Color match backgorund to aldumn art
-Scrolling track titles</string>
-		<key>descriptionShort</key>
-		<string>Add some color to the Now playing widget</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/ColorTracks_1.1.0.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>ColorTracks</string>
-		<key>package</key>
-		<string>com.macenhance.ColorTracks</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<integer>33275</integer>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple..NowPlayingWidgetContainer</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.1.0</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>com.macenhance.podcastsPlus</key>
-	<dict>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Mar 17, 2020</string>
-		<key>description</key>
-		<string>podcastsPlus is a MacForge plugin that adds some features to the Spotify desktop player
-Change the dock icon to the now playing track art
-Add progress bar to dock icon
-Add Play/Pause, Next, Previous and Seek options to dock menu
-Add Volume control to dock menu
-Restart Podcasts
-Settings in Dock menu and podcasts+ item in the menubar</string>
-		<key>descriptionShort</key>
-		<string>Add useful features to the Podcasts app</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/podcastsPlus_1.1.0.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>podcastsPlus</string>
-		<key>package</key>
-		<string>com.macenhance.podcastsPlus</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<integer>820946</integer>
-		<key>target</key>
-		<string>null</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.podcasts</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.1.0</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>com.nateparrott.Flashlight</key>
-	<dict>
-		<key>featured</key>
-		<true/>
-		<key>apps</key>
-		<string>Spotlight</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.10+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>customIcon</key>
-		<true/>
-		<key>date</key>
-		<string>Dec 31, 2019</string>
-		<key>description</key>
-		<string>Flashlight is an unofficial Spotlight API that allows you to programmatically process queries and add additional results.</string>
-		<key>descriptionShort</key>
-		<string>Add plugins to Spotlight 🔍</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/Flashlight_1.2.0.zip</string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string>https://cdock.macenhance.com/</string>
-		<key>icon</key>
-		<string>/images/com.nateparrott.Flashlight/icon.png</string>
-		<key>name</key>
-		<string>Flashlight</string>
-		<key>package</key>
-		<string>com.nateparrott.Flashlight</string>
-		<key>payed</key>
-		<false/>
-		<key>price</key>
-		<string></string>
-		<key>size</key>
-		<integer>3273759</integer>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Spotlight</string>
-			</dict>
-		</array>
-		<key>type</key>
-		<string>app</string>
-		<key>version</key>
-		<string>1.2.0</string>
-	</dict>
-	<key>com.sky.imessageParity</key>
-	<dict>
-		<key>featured</key>
-		<true/>
-		<key>apps</key>
-		<string>Messages</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>May 29, 2018</string>
-		<key>description</key>
-		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
-		<key>descriptionShort</key>
-		<string>Send messages with effects</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/iMessageParity_0.1.3.zip</string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>iMessageParity</string>
-		<key>package</key>
-		<string>com.sky.imessageParity</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<integer>67952</integer>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.iChat</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.1.3</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>net.infinite-labs.Afloat</key>
-	<dict>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string>macEnhance</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>customIcon</key>
-		<true/>
-		<key>date</key>
-		<string>Jan 16, 2017</string>
-		<key>description</key>
-		<string>Adds useful window management commands to applications</string>
-		<key>descriptionShort</key>
-		<string>Adds useful window management commands to applications</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/Afloat_2.5.2.zip</string>
-		<key>hasPreview</key>
-		<true/>
-		<key>homepage</key>
-		<string></string>
-		<key>icon</key>
-		<string>/images/net.infinite-labs.Afloat/icon.png</string>
-		<key>name</key>
-		<string>Afloat</string>
-		<key>package</key>
-		<string>net.infinite-labs.Afloat</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<integer>474036</integer>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>2.5.2</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
 	<key>org.w0lf.BlurFocus</key>
 	<dict>
 		<key>apps</key>
@@ -2125,9 +1878,9 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>descriptionShort</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -2212,10 +1965,6 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 	</dict>
 	<key>org.w0lf.FScriptLoader</key>
 	<dict>
-		<key>markdown</key>
-		<true/>
-		<key>featured</key>
-		<true/>
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
@@ -2227,15 +1976,19 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Sep 22, 2019</string>
 		<key>description</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use MacForge to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use MacForge to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>descriptionShort</key>
 		<string>Load F-Script into all applications</string>
 		<key>donate</key>
 		<string></string>
+		<key>featured</key>
+		<true/>
 		<key>filename</key>
 		<string>/bundles/FScriptLoader_1.1.zip</string>
 		<key>homepage</key>
 		<string>https://github.com/w0lfschild/FScriptLoader</string>
+		<key>markdown</key>
+		<true/>
 		<key>name</key>
 		<string>FScriptLoader</string>
 		<key>package</key>
@@ -2363,9 +2116,9 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
-		<string>A simple plugin that adds &quot;Clear All&quot; button to the bottom of the notification center. This will instantly clear all notifications.</string>
+		<string>A simple plugin that adds "Clear All" button to the bottom of the notification center. This will instantly clear all notifications.</string>
 		<key>descriptionShort</key>
-		<string>Adds &quot;Clear All&quot; button to notification center</string>
+		<string>Adds "Clear All" button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -2442,6 +2195,115 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>org.w0lf.cDock-GUI</key>
+	<dict>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Mar 17, 2020</string>
+		<key>description</key>
+		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
+
+There are many ways to configure cDock as you wish. Give it a go and find out!</string>
+		<key>descriptionShort</key>
+		<string>Customize your dock appearance</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/cDock_3.1.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>name</key>
+		<string>cDock 3</string>
+		<key>package</key>
+		<string>org.w0lf.cDock-GUI</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$4.99</string>
+		<key>productID</key>
+		<string>520974</string>
+		<key>size</key>
+		<integer>14709851</integer>
+		<key>system</key>
+		<dict>
+			<key>LIB</key>
+			<true/>
+		</dict>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>app</string>
+		<key>version</key>
+		<string>3.1.2</string>
+		<key>webpage</key>
+		<string>https://cdock.macenhance.com/</string>
+	</dict>
+	<key>org.w0lf.cleanHUD</key>
+	<dict>
+		<key>apps</key>
+		<string>loginwindow</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Jun 16, 2020</string>
+		<key>description</key>
+		<string>Customizes the volume, screen and keyboard brightness HUDs to be minimal and unobtrusive, like they should be.</string>
+		<key>descriptionShort</key>
+		<string>Minimal HUDs </string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>featured</key>
+		<true/>
+		<key>filename</key>
+		<string>/bundles/cleanHUD_0.11.1.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>cleanHUD</string>
+		<key>package</key>
+		<string>org.w0lf.cleanHUD</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productID</key>
+		<string>535217</string>
+		<key>size</key>
+		<integer>130495</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.loginwindow</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.11.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>org.w0lf.darkNC</key>
 	<dict>
 		<key>apps</key>
@@ -2499,7 +2361,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Apr 01, 2017</string>
 		<key>description</key>
-		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don&apos;t miss out on all the fun of Mojave&apos;s Dark Mode just because you can&apos;t update your machine!</string>
+		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don't miss out on all the fun of Mojave's Dark Mode just because you can't update your machine!</string>
 		<key>descriptionShort</key>
 		<string>Dark Mode for macOS</string>
 		<key>donate</key>
@@ -2629,6 +2491,58 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>org.w0lf.moreMenu</key>
+	<dict>
+		<key>apps</key>
+		<string>All</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Jul 12, 2018</string>
+		<key>description</key>
+		<string>Collapse and expand the current applications menubar to provide a clutter free experience or give more menubar space on small displays. Settetings are save per-app and the state should save and restore when an app quits and re-opens.</string>
+		<key>descriptionShort</key>
+		<string>Bartender for the left side</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>featured</key>
+		<true/>
+		<key>filename</key>
+		<string>/bundles/moreMenu_0.3.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>moreMenu</string>
+		<key>package</key>
+		<string>org.w0lf.moreMenu</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productID</key>
+		<string>534450</string>
+		<key>size</key>
+		<integer>21196</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.3.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>org.w0lf.safariSoda</key>
 	<dict>
 		<key>apps</key>
@@ -2726,6 +2640,56 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>org.w0lf.whosTyping</key>
+	<dict>
+		<key>apps</key>
+		<string>Messages</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Feb 03, 2018</string>
+		<key>description</key>
+		<string>Adds an item to the statusbar which displays iMessage typing and read receipts.</string>
+		<key>descriptionShort</key>
+		<string>iMessage typing / read indicator for the status bar</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>featured</key>
+		<true/>
+		<key>filename</key>
+		<string>/bundles/whosTyping_0.0.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>whosTyping</string>
+		<key>package</key>
+		<string>org.w0lf.whosTyping</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$0.99</string>
+		<key>productID</key>
+		<string>535221</string>
+		<key>size</key>
+		<integer>181557</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.iChat</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.0.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>org.w0lf.winBuddy</key>
 	<dict>
 		<key>apps</key>
@@ -2783,7 +2747,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Mar 16, 2020</string>
+		<string>Jun 16, 2020</string>
 		<key>description</key>
 		<string>Add vibrancy to most application windows</string>
 		<key>descriptionShort</key>
@@ -2791,7 +2755,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/zestyWin_0.2.49.zip</string>
+		<string>/bundles/zestyWin_0.3.0.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -2803,7 +2767,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<integer>22102</integer>
+		<integer>54187</integer>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -2814,9 +2778,51 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.2.49</string>
+		<string>0.3.0</string>
 		<key>webpage</key>
 		<string></string>
+	</dict>
+	<key>ws.hbang.typestatus.mac</key>
+	<dict>
+		<key>apps</key>
+		<string>Messages</string>
+		<key>author</key>
+		<string>HASHBANG Productions</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@hbang.ws</string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Disply a notification when others are typing in Messages</string>
+		<key>descriptionShort</key>
+		<string>Disply a notification when others are typing in Messages</string>
+		<key>donate</key>
+		<string>https://hbang.ws/donate/</string>
+		<key>filename</key>
+		<string>/bundles/TypeStatus_1.0.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>TypeStatus</string>
+		<key>package</key>
+		<string>ws.hbang.typestatus.mac</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>16275</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.iChat</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string>https://typestatus.com/</string>
 	</dict>
 </dict>
 </plist>
