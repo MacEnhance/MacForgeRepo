@@ -280,7 +280,7 @@
 		<key>contact</key>
 		<string></string>
 		<key>date</key>
-		<string>Jun 15, 2020</string>
+		<string>Jun 16, 2020</string>
 		<key>description</key>
 		<string>Futeristic cusror replacement for Mousecape</string>
 		<key>descriptionShort</key>
@@ -840,6 +840,52 @@ Scrolling track titles</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>com.macenhance.Goodbye</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Jun 17, 2020</string>
+		<key>description</key>
+		<string>Simple plugin to make all applications quit when the last window closes. Contains an editable blacklist in the bundle.</string>
+		<key>descriptionShort</key>
+		<string>Make all applications quit when the last window closes</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/Goodbye_1.2.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>Goodbye</string>
+		<key>package</key>
+		<string>com.macenhance.Goodbye</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>28515</integer>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.2.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>com.macenhance.colorfulSidebarX</key>
 	<dict>
 		<key>apps</key>
@@ -895,6 +941,58 @@ Scrolling track titles</string>
 		</array>
 		<key>version</key>
 		<string>2.1.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.macenhance.dockmate</key>
+	<dict>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Jun 18, 2020</string>
+		<key>description</key>
+		<string>DockMate adds mouse over window previews to the Dock. With useful built in window management tools and special views to control Music apps.</string>
+		<key>descriptionShort</key>
+		<string>Window previews for the Dock</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/dockmate_0.4.11.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>DockMate</string>
+		<key>package</key>
+		<string>com.macenhance.dockmate</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$14.99</string>
+		<key>productID</key>
+		<string>589182</string>
+		<key>size</key>
+		<integer>5922941</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>app</string>
+		<key>version</key>
+		<string>0.4.11</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
