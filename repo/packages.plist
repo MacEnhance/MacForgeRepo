@@ -17,7 +17,7 @@
 		<key>date</key>
 		<string>Jun 15, 2020</string>
 		<key>description</key>
-		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   "What Dashboard should have become." -zombi3gee</string>
+		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   &quot;What Dashboard should have become.&quot; -zombi3gee</string>
 		<key>descriptionShort</key>
 		<string>Transform Today Extensions into Desktop Widgets</string>
 		<key>donate</key>
@@ -478,13 +478,13 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Jun 16, 2020</string>
+		<string>Aug 13, 2020</string>
 		<key>description</key>
 		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to give you some additional window management features.  
 Current features are: 
 Keep window on top (floating window)
 Keep window on behind all other windows
-Transient mode: Always come to focus in current space. Won't force you back to that windows last active space
+Transient mode: Always come to focus in current space. Won&apos;t force you back to that windows last active space
 Sticky mode: Window stays visible on all spaces
 Invert window color
 Click-Through window: Window is invisible to clicks (best paired with a floating window)
@@ -509,7 +509,7 @@ Window transparency</string>
 		<key>price</key>
 		<string>$0.00</string>
 		<key>size</key>
-		<integer>354121</integer>
+		<integer>348018</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -596,7 +596,7 @@ Window transparency</string>
 		<key>date</key>
 		<string>Oct 26, 2019</string>
 		<key>description</key>
-		<string>Expand Bartender 3 on mouse over. Now you won't have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
+		<string>Expand Bartender 3 on mouse over. Now you won&apos;t have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
 		<key>descriptionShort</key>
 		<string>Expand Bartender 3 on mouse over</string>
 		<key>filename</key>
@@ -638,9 +638,9 @@ Window transparency</string>
 		<key>date</key>
 		<string>Apr 14, 2018</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven't responded</string>
+		<string>A Messages indicator for when you haven&apos;t responded</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -762,7 +762,7 @@ Window transparency</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Mar 17, 2020</string>
+		<string>Aug 24, 2020</string>
 		<key>description</key>
 		<string>ColorMenu is a MacForge plugin that makes your Statusbar Items match the system accent color.</string>
 		<key>descriptionShort</key>
@@ -770,7 +770,7 @@ Window transparency</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/ColorMenuItems_0.6.9.zip</string>
+		<string>/bundles/ColorMenuItems_0.7.1.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -780,7 +780,7 @@ Window transparency</string>
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<integer>20999</integer>
+		<integer>21877</integer>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -791,7 +791,7 @@ Window transparency</string>
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.6.9</string>
+		<string>0.7.1</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -957,7 +957,7 @@ Scrolling track titles</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Jun 16, 2020</string>
+		<string>Aug 24, 2020</string>
 		<key>description</key>
 		<string>DockMate adds mouse over window previews to the Dock. With useful built in window management tools and special views to control Music apps.</string>
 		<key>descriptionShort</key>
@@ -965,7 +965,7 @@ Scrolling track titles</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/dockmate_0.4.11.zip</string>
+		<string>/bundles/dockmate_0.7.1.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -981,7 +981,7 @@ Scrolling track titles</string>
 		<key>productID</key>
 		<string>589182</string>
 		<key>size</key>
-		<integer>5922941</integer>
+		<integer>3830251</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -992,7 +992,7 @@ Scrolling track titles</string>
 		<key>type</key>
 		<string>app</string>
 		<key>version</key>
-		<string>0.4.11</string>
+		<string>0.7.1</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -1459,9 +1459,9 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
-		<string>Disable Spotify's badging/bouncing of the dock icon</string>
+		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
 		<key>descriptionShort</key>
-		<string>Disable Spotify's badging/bouncing of the dock icon</string>
+		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -1979,9 +1979,9 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>descriptionShort</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -2077,7 +2077,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Sep 22, 2019</string>
 		<key>description</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use MacForge to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use MacForge to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>descriptionShort</key>
 		<string>Load F-Script into all applications</string>
 		<key>donate</key>
@@ -2217,9 +2217,9 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
-		<string>A simple plugin that adds "Clear All" button to the bottom of the notification center. This will instantly clear all notifications.</string>
+		<string>A simple plugin that adds &quot;Clear All&quot; button to the bottom of the notification center. This will instantly clear all notifications.</string>
 		<key>descriptionShort</key>
-		<string>Adds "Clear All" button to notification center</string>
+		<string>Adds &quot;Clear All&quot; button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -2309,7 +2309,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Mar 17, 2020</string>
+		<string>Aug 24, 2020</string>
 		<key>description</key>
 		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
 
@@ -2319,7 +2319,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cDock_3.1.2.zip</string>
+		<string>/bundles/cDock_4.1.5.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -2335,7 +2335,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>productID</key>
 		<string>520974</string>
 		<key>size</key>
-		<integer>14709851</integer>
+		<integer>13330784</integer>
 		<key>system</key>
 		<dict>
 			<key>LIB</key>
@@ -2351,7 +2351,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>type</key>
 		<string>app</string>
 		<key>version</key>
-		<string>3.1.2</string>
+		<string>4.1.5</string>
 		<key>webpage</key>
 		<string>https://cdock.macenhance.com/</string>
 	</dict>
@@ -2462,7 +2462,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>date</key>
 		<string>Apr 01, 2017</string>
 		<key>description</key>
-		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don't miss out on all the fun of Mojave's Dark Mode just because you can't update your machine!</string>
+		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don&apos;t miss out on all the fun of Mojave&apos;s Dark Mode just because you can&apos;t update your machine!</string>
 		<key>descriptionShort</key>
 		<string>Dark Mode for macOS</string>
 		<key>donate</key>
