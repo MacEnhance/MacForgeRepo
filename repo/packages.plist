@@ -762,7 +762,7 @@ Window transparency</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Aug 24, 2020</string>
+		<string>Aug 27, 2020</string>
 		<key>description</key>
 		<string>ColorMenu is a MacForge plugin that makes your Statusbar Items match the system accent color.</string>
 		<key>descriptionShort</key>
@@ -770,7 +770,7 @@ Window transparency</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/ColorMenuItems_0.7.1.zip</string>
+		<string>/bundles/ColorMenuItems_0.7.4.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -780,7 +780,7 @@ Window transparency</string>
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<integer>21877</integer>
+		<integer>23209</integer>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -791,7 +791,7 @@ Window transparency</string>
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.7.1</string>
+		<string>0.7.4</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -2758,7 +2758,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Aug 24, 2020</string>
+		<string>Aug 27, 2020</string>
 		<key>description</key>
 		<string>spotifyPlus is a MacForge plugin that adds some features to the Spotify desktop player
 - Automatically mute audio ads
@@ -2775,7 +2775,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/spotifyPlus_0.9.2.zip</string>
+		<string>/bundles/spotifyPlus_0.9.4.zip</string>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -2785,7 +2785,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<integer>823951</integer>
+		<integer>823984</integer>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -2796,7 +2796,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.9.2</string>
+		<string>0.9.4</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
