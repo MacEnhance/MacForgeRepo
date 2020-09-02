@@ -6,8 +6,6 @@ You can use custom images by checking out the Plugin Prefs controls in MacForge 
 
 colorfulSidebarX supports all app sidebars in Big Sur and most sidebars in earlier viersion of macOS.
 
---
-
 # Changelog
 
 ### 2.2.0
@@ -21,6 +19,6 @@ colorfulSidebarX supports all app sidebars in Big Sur and most sidebars in earli
 - Support for all sidebars items in Big Sur
 - New plugin preference window for MacForge
 
---
 
-* Note changelog may not always be up to date
+
+\* Note changelog may not always be up to date
