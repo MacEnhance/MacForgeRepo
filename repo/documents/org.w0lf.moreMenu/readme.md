@@ -1,19 +1,23 @@
 # moreMenu
 
-Collapse and expand the current applications menubar to provide a clutter free experience or give more menubar space on small displays. 
+Collapse and expand the current applications menubar to provide a clutter free experience or give more menubar space on small displays.    
 
-Settings are saved per-app and will restore to the same state when re-opened.
 
-# Useage :
+Settings are saved per-app and will restore to the same state when re-opened.    
 
-Click the ⬅ emoji in the menu to collapse the current apps menubar
-Click the ➡ emoji to expand
 
-# Notes :
+#### Useage
 
-- There are some apps that may be incompatible, the main ones being some browsers like FireFox.
+- Click the ⬅ emoji in the menu to collapse the current apps menubar
+- Click the ➡ emoji to expand    
 
-# Changelog :
+
+#### Notes
+
+- There are some apps that may be incompatible, the main ones being some browsers like FireFox.    
+
+
+#### Changelog
 
 ### 0.4.1
 
