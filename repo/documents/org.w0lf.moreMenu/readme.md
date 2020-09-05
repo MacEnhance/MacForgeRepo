@@ -8,7 +8,7 @@ Settings are saved per-app and will restore to the same state when re-opened.
 
 #### Useage
 
-- Click the ⬅ emoji in the menu to collapse the current apps menubar
+- Click the ⬅ emoji in the menu to collapse the menubar
 - Click the ➡ emoji to expand    
 
 
