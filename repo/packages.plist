@@ -171,7 +171,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Sep 02, 2020</string>
+		<string>Sep 28, 2020</string>
 		<key>description</key>
 		<string>Simple menubar tool that lets you customize the names of your spaces to anything you want.</string>
 		<key>descriptionShort</key>
@@ -179,7 +179,7 @@
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
-		<string>/bundles/spaces-renamer_1.8.1.zip</string>
+		<string>/bundles/spaces-renamer_1.9.0.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -195,7 +195,7 @@
 		<key>price</key>
 		<string>$0.00</string>
 		<key>size</key>
-		<integer>7621593</integer>
+		<integer>7623583</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -206,7 +206,7 @@
 		<key>type</key>
 		<string>app</string>
 		<key>version</key>
-		<string>1.8.1</string>
+		<string>1.9.0</string>
 		<key>webpage</key>
 		<string>https://alexbeals.com/</string>
 	</dict>
