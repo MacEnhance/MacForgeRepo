@@ -478,7 +478,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Nov 5, 2020</string>
+		<string>Nov 12, 2020</string>
 		<key>description</key>
 		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to give you some additional window management features.  
 Current features are: 
@@ -509,7 +509,7 @@ Window transparency</string>
 		<key>price</key>
 		<string>$0.00</string>
 		<key>size</key>
-		<integer>347842</integer>
+		<integer>348576</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -883,6 +883,60 @@ Scrolling track titles</string>
 		</array>
 		<key>version</key>
 		<string>1.3.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.macenhance.Notifica</key>
+	<dict>
+		<key>hasPreview</key>
+		<true/>
+		<key>apps</key>
+		<string>Notification Center</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.13 - 10.15</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Nov 12, 2020</string>
+		<key>description</key>
+		<string>A simple plugin to adjust notification location, pin to external displays and color notifications. Manage the plugin settings in MacForge.</string>
+		<key>descriptionShort</key>
+		<string>Adjust notification location</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/Notifica_0.2.5.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>markdown</key>
+		<true/>
+		<key>name</key>
+		<string>Notifica</string>
+		<key>package</key>
+		<string>com.macenhance.Notifica</string>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$1.99</string>
+		<key>productID</key>
+		<string>636729</string>
+		<key>size</key>
+		<integer>64553</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.notificationcenterui</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.notificationcenterui2</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.2.5</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
