@@ -171,15 +171,15 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Sep 28, 2020</string>
+		<string>Nov 27, 2020</string>
 		<key>description</key>
 		<string>Simple menubar tool that lets you customize the names of your spaces to anything you want.</string>
 		<key>descriptionShort</key>
 		<string>Rename spaces on macOS</string>
 		<key>donate</key>
-		<string></string>
+		<string>https://www.paypal.com/paypalme/AlexBeals</string>
 		<key>filename</key>
-		<string>/bundles/spaces-renamer_1.9.0.zip</string>
+		<string>/bundles/spaces-renamer_1.9.1.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -206,7 +206,7 @@
 		<key>type</key>
 		<string>app</string>
 		<key>version</key>
-		<string>1.9.0</string>
+		<string>1.9.1</string>
 		<key>webpage</key>
 		<string>https://alexbeals.com/</string>
 	</dict>
