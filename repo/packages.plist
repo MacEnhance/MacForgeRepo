@@ -953,9 +953,13 @@ Scrolling track titles</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Nov 05, 2020</string>
+		<string>Nov 29, 2020</string>
 		<key>description</key>
-		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
+		<string>cDock 4
+
+A better Dock for macOS.
+
+cDock gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust. Give it a go and find what your Docks has been missing!
 
 There are many ways to configure cDock as you wish. Give it a go and find out!</string>
 		<key>descriptionShort</key>
@@ -963,7 +967,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/cDock4_4.4.3.zip</string>
+		<string>/bundles/cDock4_4.5.0.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -995,7 +999,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>type</key>
 		<string>app</string>
 		<key>version</key>
-		<string>4.4.3</string>
+		<string>4.5.0</string>
 		<key>webpage</key>
 		<string>https://cdock.macenhance.com/</string>
 	</dict>
