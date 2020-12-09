@@ -388,7 +388,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Mar 17, 2020</string>
+		<string>Dec 8, 2020</string>
 		<key>description</key>
 		<string>A fun wobbly windows implementation for MacOS inspired by Compiz for Linux. Note that this can cause issues for some windows.</string>
 		<key>descriptionShort</key>
@@ -410,7 +410,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<integer>3293476</integer>
+		<integer>3436448</integer>
 		<key>targets</key>
 		<array>
 			<dict>
