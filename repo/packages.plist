@@ -886,6 +886,50 @@ Scrolling track titles</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>com.macenhance.MEMiniMe</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 11.0+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Dec 26, 2020</string>
+		<key>description</key>
+		<string>MEMiniMe is a very simple plugin that makes windows that use system drawn toolbars use NSWindowToolbarStyleUnifiedCompact. This won't have any effect on windows using custom, non-system, titlebar or toolbars.</string>
+		<key>descriptionShort</key>
+		<string>Make window toolbars compact on Big Sur</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/MEMiniMe_1.3.0.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>MEMiniMe</string>
+		<key>package</key>
+		<string>com.macenhance.MEMiniMe</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>29991</integer>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.3.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>com.macenhance.Notifica</key>
 	<dict>
 		<key>apps</key>
@@ -2895,7 +2939,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>payed</key>
 		<true/>
 		<key>price</key>
-		<string>$0.99</string>
+		<string>$1.99</string>
 		<key>productID</key>
 		<string>535221</string>
 		<key>size</key>
