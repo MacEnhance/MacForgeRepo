@@ -388,7 +388,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Dec 8, 2020</string>
+		<string>Dec 26, 2020</string>
 		<key>description</key>
 		<string>A fun wobbly windows implementation for MacOS inspired by Compiz for Linux. Note that this can cause issues for some windows.</string>
 		<key>descriptionShort</key>
@@ -1158,6 +1158,52 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<string>app</string>
 		<key>version</key>
 		<string>0.7.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.macenhance.noShadows</key>
+	<dict>
+		<key>hasPreview</key>
+		<true/>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.14+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Dec 29, 2020</string>
+		<key>description</key>
+		<string>noShadows is a very simple plugin that removes windows shadows from window that use system drawn shadows.</string>
+		<key>descriptionShort</key>
+		<string>Remove the shadow from all standard windows </string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/noShadows_1.1.2.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>noShadows</string>
+		<key>package</key>
+		<string>com.macenhance.noShadows</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>21263</integer>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.1.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
