@@ -17,7 +17,7 @@
 		<key>date</key>
 		<string>Jun 15, 2020</string>
 		<key>description</key>
-		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   &quot;What Dashboard should have become.&quot; -zombi3gee</string>
+		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   "What Dashboard should have become." -zombi3gee</string>
 		<key>descriptionShort</key>
 		<string>Transform Today Extensions into Desktop Widgets</string>
 		<key>donate</key>
@@ -484,7 +484,7 @@
 Current features are: 
 Keep window on top (floating window)
 Keep window on behind all other windows
-Transient mode: Always come to focus in current space. Won&apos;t force you back to that windows last active space
+Transient mode: Always come to focus in current space. Won't force you back to that windows last active space
 Sticky mode: Window stays visible on all spaces
 Invert window color
 Click-Through window: Window is invisible to clicks (best paired with a floating window)
@@ -596,7 +596,7 @@ Window transparency</string>
 		<key>date</key>
 		<string>Oct 26, 2019</string>
 		<key>description</key>
-		<string>Expand Bartender 3 on mouse over. Now you won&apos;t have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
+		<string>Expand Bartender 3 on mouse over. Now you won't have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
 		<key>descriptionShort</key>
 		<string>Expand Bartender 3 on mouse over</string>
 		<key>filename</key>
@@ -638,9 +638,9 @@ Window transparency</string>
 		<key>date</key>
 		<string>Apr 14, 2018</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven&apos;t responded</string>
+		<string>A Messages indicator for when you haven't responded</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -899,7 +899,7 @@ Scrolling track titles</string>
 		<key>date</key>
 		<string>Dec 26, 2020</string>
 		<key>description</key>
-		<string>MEMiniMe is a very simple plugin that makes windows that use system drawn toolbars use NSWindowToolbarStyleUnifiedCompact. This won&apos;t have any effect on windows using custom, non-system, titlebar or toolbars.</string>
+		<string>MEMiniMe is a very simple plugin that makes windows that use system drawn toolbars use NSWindowToolbarStyleUnifiedCompact. This won't have any effect on windows using custom, non-system, titlebar or toolbars.</string>
 		<key>descriptionShort</key>
 		<string>Make window toolbars compact on Big Sur</string>
 		<key>donate</key>
@@ -1163,8 +1163,6 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 	</dict>
 	<key>com.macenhance.noShadows</key>
 	<dict>
-		<key>hasPreview</key>
-		<true/>
 		<key>apps</key>
 		<string>System</string>
 		<key>author</key>
@@ -1183,6 +1181,8 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
 		<string>/bundles/noShadows_1.1.2.zip</string>
+		<key>hasPreview</key>
+		<true/>
 		<key>homepage</key>
 		<string></string>
 		<key>name</key>
@@ -1670,9 +1670,9 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
-		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
+		<string>Disable Spotify's badging/bouncing of the dock icon</string>
 		<key>descriptionShort</key>
-		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
+		<string>Disable Spotify's badging/bouncing of the dock icon</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -2190,9 +2190,9 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>descriptionShort</key>
-		<string>Blur windows when they&apos;re not in focus</string>
+		<string>Blur windows when they're not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -2288,7 +2288,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Sep 22, 2019</string>
 		<key>description</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use MacForge to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use MacForge to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>descriptionShort</key>
 		<string>Load F-Script into all applications</string>
 		<key>donate</key>
@@ -2428,9 +2428,9 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>date</key>
 		<string>Sep 06, 2017</string>
 		<key>description</key>
-		<string>A simple plugin that adds &quot;Clear All&quot; button to the bottom of the notification center. This will instantly clear all notifications.</string>
+		<string>A simple plugin that adds "Clear All" button to the bottom of the notification center. This will instantly clear all notifications.</string>
 		<key>descriptionShort</key>
-		<string>Adds &quot;Clear All&quot; button to notification center</string>
+		<string>Adds "Clear All" button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -2577,7 +2577,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Sep 27, 2020</string>
+		<string>Jan 15, 2021</string>
 		<key>description</key>
 		<string>Customizes the volume, screen and keyboard brightness HUDs to be minimal and unobtrusive, like they should be.</string>
 		<key>descriptionShort</key>
@@ -2587,7 +2587,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>featured</key>
 		<true/>
 		<key>filename</key>
-		<string>/bundles/cleanHUD_0.11.2.zip</string>
+		<string>/bundles/cleanHUD_0.11.3.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -2603,7 +2603,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>productID</key>
 		<string>535217</string>
 		<key>size</key>
-		<integer>133568</integer>
+		<integer>133204</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -2612,7 +2612,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.11.2</string>
+		<string>0.11.3</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -2673,7 +2673,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>date</key>
 		<string>Apr 01, 2017</string>
 		<key>description</key>
-		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don&apos;t miss out on all the fun of Mojave&apos;s Dark Mode just because you can&apos;t update your machine!</string>
+		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don't miss out on all the fun of Mojave's Dark Mode just because you can't update your machine!</string>
 		<key>descriptionShort</key>
 		<string>Dark Mode for macOS</string>
 		<key>donate</key>
@@ -2965,7 +2965,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Dec 04, 2020</string>
+		<string>Jan 15, 2021</string>
 		<key>description</key>
 		<string>Adds an item to the statusbar which displays iMessage typing and read receipts.</string>
 		<key>descriptionShort</key>
@@ -2975,7 +2975,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>featured</key>
 		<true/>
 		<key>filename</key>
-		<string>/bundles/whosTyping_0.1.3.zip</string>
+		<string>/bundles/whosTyping_0.2.5.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -2991,7 +2991,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>productID</key>
 		<string>535221</string>
 		<key>size</key>
-		<integer>217689</integer>
+		<integer>217234</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -3000,7 +3000,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.1.3</string>
+		<string>0.2.5</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
