@@ -15,9 +15,9 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Jun 15, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
-		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   "What Dashboard should have become." -zombi3gee</string>
+		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   &quot;What Dashboard should have become.&quot; -zombi3gee</string>
 		<key>descriptionShort</key>
 		<string>Transform Today Extensions into Desktop Widgets</string>
 		<key>donate</key>
@@ -79,7 +79,7 @@
 		<key>contact</key>
 		<string>adam@adambell.ca</string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Force the Dock to display in Dark Mode</string>
 		<key>descriptionShort</key>
@@ -127,7 +127,7 @@
 		<key>contact</key>
 		<string>bentrask@comcast.net</string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Change scrollbar placement to the left side</string>
 		<key>descriptionShort</key>
@@ -171,7 +171,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Nov 29, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Simple menubar tool that lets you customize the names of your spaces to anything you want.</string>
 		<key>descriptionShort</key>
@@ -223,7 +223,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Jun 15, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>The ultimate tool to create and use customized mouse cursors on macOS.</string>
 		<key>descriptionShort</key>
@@ -280,7 +280,7 @@
 		<key>contact</key>
 		<string></string>
 		<key>date</key>
-		<string>Jun 16, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Futeristic cusror replacement for Mousecape</string>
 		<key>descriptionShort</key>
@@ -333,7 +333,7 @@
 		<key>contact</key>
 		<string></string>
 		<key>date</key>
-		<string>Jun 15, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>A pointy finger cursor replacement for Mousecape</string>
 		<key>descriptionShort</key>
@@ -388,7 +388,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Dec 26, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>A fun wobbly windows implementation for MacOS inspired by Compiz for Linux. Note that this can cause issues for some windows.</string>
 		<key>descriptionShort</key>
@@ -434,7 +434,7 @@
 		<key>contact</key>
 		<string></string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>No sidebar in preview</string>
 		<key>descriptionShort</key>
@@ -478,13 +478,13 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Nov 12, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to give you some additional window management features.  
 Current features are: 
 Keep window on top (floating window)
 Keep window on behind all other windows
-Transient mode: Always come to focus in current space. Won't force you back to that windows last active space
+Transient mode: Always come to focus in current space. Won&apos;t force you back to that windows last active space
 Sticky mode: Window stays visible on all spaces
 Invert window color
 Click-Through window: Window is invisible to clicks (best paired with a floating window)
@@ -535,7 +535,7 @@ Window transparency</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Nov 29, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>An awesome plugin that displays the launchpad on top of the Desktop at all times making it easier than ever to access your apps!</string>
 		<key>descriptionShort</key>
@@ -594,9 +594,9 @@ Window transparency</string>
 		<key>contact</key>
 		<string>jslegendre@gmail.com</string>
 		<key>date</key>
-		<string>Oct 26, 2019</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
-		<string>Expand Bartender 3 on mouse over. Now you won't have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
+		<string>Expand Bartender 3 on mouse over. Now you won&apos;t have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
 		<key>descriptionShort</key>
 		<string>Expand Bartender 3 on mouse over</string>
 		<key>filename</key>
@@ -636,11 +636,11 @@ Window transparency</string>
 		<key>contact</key>
 		<string>alexcbeals+simbl@gmail.com</string>
 		<key>date</key>
-		<string>Apr 14, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven't responded</string>
+		<string>A Messages indicator for when you haven&apos;t responded</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -678,7 +678,7 @@ Window transparency</string>
 		<key>contact</key>
 		<string>hetima@hetima.com</string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Improvements to Safari</string>
 		<key>descriptionShort</key>
@@ -720,7 +720,7 @@ Window transparency</string>
 		<key>contact</key>
 		<string>kuglee@gmail.com</string>
 		<key>date</key>
-		<string>May 05, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Makes the Battery status indicator work just like how it did back in Mac OS X Lion (10.7).</string>
 		<key>descriptionShort</key>
@@ -762,7 +762,7 @@ Window transparency</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Aug 27, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>ColorMenu is a MacForge plugin that makes your Statusbar Items match the system accent color.</string>
 		<key>descriptionShort</key>
@@ -806,7 +806,7 @@ Window transparency</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Mar 17, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>ColorTracks is a MacForge plugin that adds some features to Apples Now Playing Widget.
 Color match controls to albumn art
@@ -851,7 +851,7 @@ Scrolling track titles</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Sep 04, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Simple plugin to make all applications quit when the last window closes. Contains an editable blacklist in the bundle.</string>
 		<key>descriptionShort</key>
@@ -897,9 +897,9 @@ Scrolling track titles</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Dec 26, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
-		<string>MEMiniMe is a very simple plugin that makes windows that use system drawn toolbars use NSWindowToolbarStyleUnifiedCompact. This won't have any effect on windows using custom, non-system, titlebar or toolbars.</string>
+		<string>MEMiniMe is a very simple plugin that makes windows that use system drawn toolbars use NSWindowToolbarStyleUnifiedCompact. This won&apos;t have any effect on windows using custom, non-system, titlebar or toolbars.</string>
 		<key>descriptionShort</key>
 		<string>Make window toolbars compact on Big Sur</string>
 		<key>donate</key>
@@ -943,7 +943,7 @@ Scrolling track titles</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Nov 12, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>A simple plugin to adjust notification location, pin to external displays and color notifications. Manage the plugin settings in MacForge.</string>
 		<key>descriptionShort</key>
@@ -999,7 +999,7 @@ Scrolling track titles</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Nov 29, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>cDock 4
 
@@ -1060,7 +1060,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Sep 02, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
 		<key>descriptionShort</key>
@@ -1122,7 +1122,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Aug 24, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>DockMate adds mouse over window previews to the Dock. With useful built in window management tools and special views to control Music apps.</string>
 		<key>descriptionShort</key>
@@ -1172,7 +1172,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Dec 29, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>noShadows is a very simple plugin that removes windows shadows from window that use system drawn shadows.</string>
 		<key>descriptionShort</key>
@@ -1207,6 +1207,61 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>com.macenhance.paintcan</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>macEnhance</string>
+		<key>compat</key>
+		<string>macOS 10.14+</string>
+		<key>contact</key>
+		<string>support@macenhance.com</string>
+		<key>date</key>
+		<string>Feb 03, 2021</string>
+		<key>description</key>
+		<string>1. Copy `Aqua.car` and `DarkAqua.car` from 
+```sh
+/System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/
+to 
+/Library/Application Support/MacEnhance/Plugins/PaintCan.bundle/Contents/Resources/
+```
+2. Change the file names to  `NSAppearanceNameAqua.paintcan.car` and `NSAppearanceNameDarkAqua.paintcan.car`
+3. Modify the `.car` files to your liking
+4. Restart any app to see changes applied (log out and back in to apply changes to all apps)
+5. When an app opens or the system change from light to dark mode it will load your custom appearance if it exists</string>
+		<key>descriptionShort</key>
+		<string>Hotswap .car files on the fly without replacing any System files.</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/PaintCan_1.0.0.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>PaintCan</string>
+		<key>package</key>
+		<string>com.macenhance.paintcan</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>41473</integer>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>com.macenhance.podcastsPlus</key>
 	<dict>
 		<key>apps</key>
@@ -1218,7 +1273,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Mar 17, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>podcastsPlus is a MacForge plugin that adds some features to the Spotify desktop player
 Change the dock icon to the now playing track art
@@ -1268,7 +1323,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Apr 14, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Plugin manager for Xcode</string>
 		<key>descriptionShort</key>
@@ -1312,7 +1367,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Dec 31, 2019</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Flashlight is an unofficial Spotlight API that allows you to programmatically process queries and add additional results.</string>
 		<key>descriptionShort</key>
@@ -1362,7 +1417,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>pooriaazimi@gmail.com</string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Improve the dictionary app</string>
 		<key>descriptionShort</key>
@@ -1404,7 +1459,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Send Chrome notification to the notification center</string>
 		<key>descriptionShort</key>
@@ -1452,7 +1507,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string></string>
 		<key>date</key>
-		<string>Jan 19, 2017</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Copy text on selection in Terminal</string>
 		<key>descriptionShort</key>
@@ -1496,7 +1551,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>May 05, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>plugin for Messages that leaves chats unread (and read receipts unsent) until you begin typing a reply (or press enter)</string>
 		<key>descriptionShort</key>
@@ -1538,7 +1593,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>May 29, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Allows you to send messages with the same effects as on iOS in the Messages app</string>
 		<key>descriptionShort</key>
@@ -1584,7 +1639,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>crazor@gmail.com</string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Hide the menubar on OSX 10.10 and below</string>
 		<key>descriptionShort</key>
@@ -1626,7 +1681,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Apr 14, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>GreaseKit is a MacForge plugin, that adds user scripting to Safari, Mailplane, Diet Pibb.app and all WebKit applications.</string>
 		<key>descriptionShort</key>
@@ -1668,11 +1723,11 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>MattGreenrocks@gmail.com</string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
-		<string>Disable Spotify's badging/bouncing of the dock icon</string>
+		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
 		<key>descriptionShort</key>
-		<string>Disable Spotify's badging/bouncing of the dock icon</string>
+		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -1710,7 +1765,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Apr 14, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Removes the titlebar from the Terminal for a clean look while coding.</string>
 		<key>descriptionShort</key>
@@ -1752,7 +1807,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>mahdi@outlook.com</string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Personalise your Notification Center banners and alerts</string>
 		<key>descriptionShort</key>
@@ -1794,7 +1849,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>mahdi@outlook.com</string>
 		<key>date</key>
-		<string>Apr 14, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Hides fullscreen button from windows</string>
 		<key>descriptionShort</key>
@@ -1836,7 +1891,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>mahdi@outlook.com</string>
 		<key>date</key>
-		<string>Apr 14, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Hides window icons on all apps</string>
 		<key>descriptionShort</key>
@@ -1878,7 +1933,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>mahdi@outlook.com</string>
 		<key>date</key>
-		<string>Apr 14, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Hides window titles+icons.</string>
 		<key>descriptionShort</key>
@@ -1920,7 +1975,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>mahdi@outlook.com</string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Safari 5 tabs on Safari 6+</string>
 		<key>descriptionShort</key>
@@ -1962,7 +2017,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>guochen42+excerptor@gmail.com</string>
 		<key>date</key>
-		<string>Apr 14, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>When you read a PDF file, you may want to take some excerpts, like excerpting on physical books (including article name, page number etc.). Via Excerptor, you can take excerpts easily: select text in Preview/Skim and type a shortcut. An excerpt will be stored in pasteboard or a file. The excerpt includes a special link. By clicking the link, Excerptor will open the corresponding file by Preview/Skim, go to the page you want and highlight the excerpt you made, automatically.</string>
 		<key>descriptionShort</key>
@@ -2010,7 +2065,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Jan 16, 2017</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Adds useful window management commands to applications</string>
 		<key>descriptionShort</key>
@@ -2056,7 +2111,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>brodie@sf.io</string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Adds xterm mouse reporting to Terminal</string>
 		<key>descriptionShort</key>
@@ -2098,7 +2153,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>date</key>
-		<string>Apr 14, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Simple bundle to give Terminal a borderless and shadowless look</string>
 		<key>descriptionShort</key>
@@ -2140,7 +2195,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string></string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Themed tabs change when in the background</string>
 		<key>descriptionShort</key>
@@ -2188,11 +2243,11 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Dec 20, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>descriptionShort</key>
-		<string>Blur windows when they're not in focus</string>
+		<string>Blur windows when they&apos;re not in focus</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -2236,7 +2291,7 @@ Settings in Dock menu and podcasts+ item in the menubar</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>May 29, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Dark Boot gives you control over how your mac looks from the lock screen and when starting up. There are tons of options for customization so your mac can look just the way you want it to. Dark Boot is designed to make theming the Boot Screen, Login Screen and Lock Screen easy and robust on macOS 10.9 and up.
 
@@ -2286,9 +2341,9 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Sep 22, 2019</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use MacForge to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use MacForge to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>descriptionShort</key>
 		<string>Load F-Script into all applications</string>
 		<key>donate</key>
@@ -2332,7 +2387,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Nov 12, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Gray focus for background windows</string>
 		<key>descriptionShort</key>
@@ -2378,7 +2433,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Feb 04, 2018</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Removes favicons in Google Chrome</string>
 		<key>descriptionShort</key>
@@ -2426,11 +2481,11 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Sep 06, 2017</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
-		<string>A simple plugin that adds "Clear All" button to the bottom of the notification center. This will instantly clear all notifications.</string>
+		<string>A simple plugin that adds &quot;Clear All&quot; button to the bottom of the notification center. This will instantly clear all notifications.</string>
 		<key>descriptionShort</key>
-		<string>Adds "Clear All" button to notification center</string>
+		<string>Adds &quot;Clear All&quot; button to notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -2472,7 +2527,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Nov 12, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Adds a badge with item count to the trash icon in Dock. Count is based on the top level of the trash and is not a recusrive count of all items in the trash.</string>
 		<key>descriptionShort</key>
@@ -2520,7 +2575,7 @@ There are many ways to configure Dark Boot as you wish. Give it a go and find ou
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Mar 17, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>cDock 3 gives you full control over the Dock. There are tons of ways to customize the look and feel of the Dock. You can even enable some awesome hidden features. cDock is designed to make theming your Dock easy and robust on macOS 10.10 and up.
 
@@ -2577,7 +2632,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Jan 15, 2021</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Customizes the volume, screen and keyboard brightness HUDs to be minimal and unobtrusive, like they should be.</string>
 		<key>descriptionShort</key>
@@ -2627,7 +2682,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Sep 06, 2017</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Brings dark mode back to Notification Center</string>
 		<key>descriptionShort</key>
@@ -2671,9 +2726,9 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Apr 01, 2017</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
-		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don't miss out on all the fun of Mojave's Dark Mode just because you can't update your machine!</string>
+		<string>Dr Dark is a plugin that attempts to bring dark mode to older releases of MacOS. Don&apos;t miss out on all the fun of Mojave&apos;s Dark Mode just because you can&apos;t update your machine!</string>
 		<key>descriptionShort</key>
 		<string>Dark Mode for macOS</string>
 		<key>donate</key>
@@ -2717,7 +2772,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Jul 21, 2017</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Better fullscreen button and all windows able to go fullscreen</string>
 		<key>descriptionShort</key>
@@ -2763,7 +2818,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Oct 19, 2019</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>iTunesPlus is a plugin that adds some features to the iTunes/Music desktop player like setting the dock icon to the currently playing tracks album art!
 - Change the dock icon to the now playing track art (three options)
@@ -2816,7 +2871,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Sep 04, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Collapse and expand the current applications menubar to provide a clutter free experience or give more menubar space on small displays. Settetings are save per-app and the state should save and restore when an app quits and re-opens.</string>
 		<key>descriptionShort</key>
@@ -2868,7 +2923,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Nov 12, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Adds a reload all tabs option</string>
 		<key>descriptionShort</key>
@@ -2912,7 +2967,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Aug 27, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>spotifyPlus is a MacForge plugin that adds some features to the Spotify desktop player
 - Automatically mute audio ads
@@ -2965,7 +3020,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Jan 15, 2021</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Adds an item to the statusbar which displays iMessage typing and read receipts.</string>
 		<key>descriptionShort</key>
@@ -3015,7 +3070,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Nov 04, 2019</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>winBuddy is a MacForge plugin that removes the shadow around windows in every application window on macOS it also allows for hiding the menubar and dock and placing a border around windows.</string>
 		<key>descriptionShort</key>
@@ -3061,7 +3116,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Jun 16, 2020</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Add vibrancy to most application windows</string>
 		<key>descriptionShort</key>
@@ -3107,7 +3162,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@hbang.ws</string>
 		<key>date</key>
-		<string>Dec 21, 2016</string>
+		<string>Jan 29, 2021</string>
 		<key>description</key>
 		<string>Disply a notification when others are typing in Messages</string>
 		<key>descriptionShort</key>
