@@ -2615,7 +2615,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 	<key>org.w0lf.cleanHUD</key>
 	<dict>
 		<key>apps</key>
-		<string>loginwindow</string>
+		<string>OSDUIHelper</string>
 		<key>author</key>
 		<string>macEnhance</string>
 		<key>compat</key>
@@ -2623,7 +2623,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Jan 15, 2021</string>
+		<string>Feb 6, 2021</string>
 		<key>description</key>
 		<string>Customizes the volume, screen and keyboard brightness HUDs to be minimal and unobtrusive, like they should be.</string>
 		<key>descriptionShort</key>
@@ -2633,7 +2633,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>featured</key>
 		<true/>
 		<key>filename</key>
-		<string>/bundles/cleanHUD_0.11.3.zip</string>
+		<string>/bundles/cleanHUD_0.11.4.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -2658,7 +2658,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.11.3</string>
+		<string>0.11.4</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
