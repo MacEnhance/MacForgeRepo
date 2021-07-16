@@ -6,18 +6,18 @@ The repository for [MacForge](https://github.com/w0lfschild/MacForge), the macOS
 
  - Ceate an Application, [Tweak](#creating-a-tweak) or Theme
  - Fork this project
- - Add your compiled and zipped plugin to the bundles folder `../MacForgeRepo/repo/bundles`
- - Create a folder with the bundleID of you plugin in `../MacForgeRepo/repo/documents`
- - Up to 6 preview imaages can be added to `../MacForgeRepo/repo/documents/<your bundle ID>/previewImages` in the format `01.png` to `06.png`
- - An icon can be added at `../MacForgeRepo/repo/documents/<your bundle ID>/icon.png`
- - Edit `../MacForgeRepo/repo/packages.plist` to include your submission
- - If you would like to have you protuct featured message me @<>
+ - Add your compiled and zipped plugin to the bundles folder `repo/bundles`
+ - Create a folder with the bundleID of you plugin in `repo/documents`
+ - Up to 6 preview imaages can be added to `repo/documents/<your bundle ID>/previewImages` in the format `01.png` to `06.png`
+ - An icon can be added at `repo/documents/<your bundle ID>/icon.png`
+ - Edit `repo/packages.plist` to include your submission
+ - If you would like to have you product featured message me @<>
  - Submit a pull request
  
  ## Creating a tweak
 
  - Fork this project
- - Open the Example project in `../MacForgeRepo/templates/Example Plugin`
+ - Open the Example project in `templates/Example Plugin`
  - Add your code
  - You can find header dumps of most Apple Applications [HERE](https://github.com/w0lfschild/macOS_headers)
  - Build your code
@@ -30,7 +30,7 @@ The repository for [MacForge](https://github.com/w0lfschild/MacForge), the macOS
  - [Make something](https://github.com/w0lfschild/MacForge/wiki/Bundles-:-Creating) you want to sell
  - Open a [Paddle](https://paddle.com) account
  - Setup your bundle in Paddle
- - Add your Paddle info to your listing in packages.plist
+ - Add your Paddle info to your listing in `repo/packages.plist`
 - [Publish it!](#publishing-a-product)
  
  ## Updating packages.plist:
