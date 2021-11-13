@@ -17,7 +17,7 @@
 		<key>date</key>
 		<string>Jun 15, 2020</string>
 		<key>description</key>
-		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.   &quot;What Dashboard should have become.&quot; -zombi3gee</string>
+		<string>Todeska brings Today Widgets straight to your desktop. All your existing extensions work flawlessly and can be set to float above or below other windows.  &quot;What Dashboard should have become.&quot; -zombi3gee</string>
 		<key>descriptionShort</key>
 		<string>Transform Today Extensions into Desktop Widgets</string>
 		<key>donate</key>
@@ -480,8 +480,8 @@
 		<key>date</key>
 		<string>Nov 12, 2020</string>
 		<key>description</key>
-		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to give you some additional window management features.  
-Current features are: 
+		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to give you some additional window management features.
+Current features are:
 Keep window on top (floating window)
 Keep window on behind all other windows
 Transient mode: Always come to focus in current space. Won&apos;t force you back to that windows last active space
@@ -897,7 +897,7 @@ Scrolling track titles</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Dec 26, 2020</string>
+		<string>Nov 13, 2021</string>
 		<key>description</key>
 		<string>MEMiniMe is a very simple plugin that makes windows that use system drawn toolbars use NSWindowToolbarStyleUnifiedCompact. This won&apos;t have any effect on windows using custom, non-system, titlebar or toolbars.</string>
 		<key>descriptionShort</key>
@@ -905,7 +905,7 @@ Scrolling track titles</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/MEMiniMe_1.3.0.zip</string>
+		<string>/bundles/MEMiniMe_2.0.1.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -1108,7 +1108,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Sep 02, 2020</string>
+		<string>Nov 13, 2021</string>
 		<key>description</key>
 		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
 		<key>descriptionShort</key>
@@ -1118,7 +1118,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>featured</key>
 		<true/>
 		<key>filename</key>
-		<string>/bundles/colorfulSidebarX_2.2.0.zip</string>
+		<string>/bundles/colorfulSidebarX_2.4.0.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -1220,7 +1220,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Dec 29, 2020</string>
+		<string>Nov 13, 2021</string>
 		<key>description</key>
 		<string>noShadows is a very simple plugin that removes windows shadows from window that use system drawn shadows.</string>
 		<key>descriptionShort</key>
@@ -1228,7 +1228,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/noShadows_1.1.2.zip</string>
+		<string>/bundles/noShadows_2.0.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -2625,7 +2625,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Feb 6, 2021</string>
+		<string>Nov 13, 2021</string>
 		<key>description</key>
 		<string>Customizes the volume, screen and keyboard brightness HUDs to be minimal and unobtrusive, like they should be.</string>
 		<key>descriptionShort</key>
@@ -2635,7 +2635,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>featured</key>
 		<true/>
 		<key>filename</key>
-		<string>/bundles/cleanHUD_0.11.4.zip</string>
+		<string>/bundles/cleanHUD_1.0.1.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
