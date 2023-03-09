@@ -472,13 +472,13 @@
 		<key>author</key>
 		<string>Jeremy Legendre</string>
 		<key>compat</key>
-		<string>macOS 10.12+</string>
+		<string>macOS 10.14+</string>
 		<key>contact</key>
 		<string>jslegendre@gmail.com</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Nov 13, 2021</string>
+		<string>Feb 28, 2023</string>
 		<key>description</key>
 		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to give you some additional window management features.
 Current features are:
@@ -493,7 +493,7 @@ Window transparency</string>
 		<key>descriptionShort</key>
 		<string>Add extra features to your windows</string>
 		<key>filename</key>
-		<string>/bundles/AfloatX_1.4.2.zip</string>
+		<string>/bundles/AfloatX_1.5.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -509,7 +509,7 @@ Window transparency</string>
 		<key>price</key>
 		<string>$0.00</string>
 		<key>size</key>
-		<integer>348576</integer>
+		<integer>378921</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -518,7 +518,7 @@ Window transparency</string>
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.4.2</string>
+		<string>1.5</string>
 		<key>webpage</key>
 		<string>https://github.com/jslegendre/AfloatX</string>
 	</dict>
