@@ -478,7 +478,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Feb 28, 2023</string>
+		<string>Sept 5, 2023</string>
 		<key>description</key>
 		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to give you some additional window management features.
 Current features are:
@@ -493,7 +493,7 @@ Window transparency</string>
 		<key>descriptionShort</key>
 		<string>Add extra features to your windows</string>
 		<key>filename</key>
-		<string>/bundles/AfloatX_1.5.zip</string>
+		<string>/bundles/AfloatX_1.6.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -509,7 +509,7 @@ Window transparency</string>
 		<key>price</key>
 		<string>$0.00</string>
 		<key>size</key>
-		<integer>378921</integer>
+		<integer>370163</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -518,7 +518,7 @@ Window transparency</string>
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.5</string>
+		<string>1.6</string>
 		<key>webpage</key>
 		<string>https://github.com/jslegendre/AfloatX</string>
 	</dict>
