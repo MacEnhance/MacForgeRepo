@@ -847,11 +847,11 @@ Scrolling track titles</string>
 		<key>author</key>
 		<string>macEnhance</string>
 		<key>compat</key>
-		<string>macOS 10.9+</string>
+		<string>macOS 10.13+</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Sep 04, 2020</string>
+		<string>Sep 07, 2023</string>
 		<key>description</key>
 		<string>Simple plugin to make all applications quit when the last window closes. Contains an editable blacklist in the bundle.</string>
 		<key>descriptionShort</key>
@@ -859,7 +859,7 @@ Scrolling track titles</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/Goodbye_1.3.0.zip</string>
+		<string>/bundles/Goodbye_1.3.1.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -882,7 +882,7 @@ Scrolling track titles</string>
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.3.0</string>
+		<string>1.3.1</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -897,7 +897,7 @@ Scrolling track titles</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Nov 13, 2021</string>
+		<string>Sep 07, 2023</string>
 		<key>description</key>
 		<string>MEMiniMe is a very simple plugin that makes windows that use system drawn toolbars use NSWindowToolbarStyleUnifiedCompact. This won&apos;t have any effect on windows using custom, non-system, titlebar or toolbars.</string>
 		<key>descriptionShort</key>
@@ -905,7 +905,7 @@ Scrolling track titles</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/MEMiniMe_2.0.1.zip</string>
+		<string>/bundles/MEMiniMe_2.0.3.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -928,7 +928,7 @@ Scrolling track titles</string>
 			</dict>
 		</array>
 		<key>version</key>
-		<string>2.0.1</string>
+		<string>2.0.3</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -1108,7 +1108,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Nov 13, 2021</string>
+		<string>Sep 07, 2023</string>
 		<key>description</key>
 		<string>Return color to the Finder sidebar and open and save panel sidebars with this wonderfully crafted tweak.</string>
 		<key>descriptionShort</key>
@@ -1118,7 +1118,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>featured</key>
 		<true/>
 		<key>filename</key>
-		<string>/bundles/colorfulSidebarX_2.4.0.zip</string>
+		<string>/bundles/colorfulSidebarX_2.4.1.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -1153,7 +1153,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 			</dict>
 		</array>
 		<key>version</key>
-		<string>2.4.0</string>
+		<string>2.4.1</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -2858,13 +2858,13 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>author</key>
 		<string>macEnhance</string>
 		<key>compat</key>
-		<string>macOS 10.9+</string>
+		<string>macOS 10.13+</string>
 		<key>contact</key>
 		<string>support@macenhance.com</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Sep 04, 2020</string>
+		<string>Sep 07, 2023</string>
 		<key>description</key>
 		<string>Collapse and expand the current applications menubar to provide a clutter free experience or give more menubar space on small displays. Settetings are save per-app and the state should save and restore when an app quits and re-opens.</string>
 		<key>descriptionShort</key>
@@ -2874,7 +2874,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 		<key>featured</key>
 		<true/>
 		<key>filename</key>
-		<string>/bundles/moreMenu_0.4.1.zip</string>
+		<string>/bundles/moreMenu_0.4.2.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -2901,7 +2901,7 @@ There are many ways to configure cDock as you wish. Give it a go and find out!</
 			</dict>
 		</array>
 		<key>version</key>
-		<string>0.4.1</string>
+		<string>0.4.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
